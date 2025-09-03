@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="styleCalc.css">
+
+    
+    <link href="../transicion-energetica/img/logo.png" rel="icon">
+
+    <nav>
+        <li ><a href="index.html">Inicio</a></li>
+    </nav>
+
+</head>
+<body>
+
+<div class="card tarjeta" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">Solicita tu instalación</h5>
+    <p class="card-text">Y suma tokens mes a mes.</p>
+    <a href="#" class="btn btn-primary" data-bs-toggle="tooltip" title="Pronto tendremos proveedores de servicios">
+    Más información
+</a>
+  </div>
+</div>
+<div class="tarjetas-laterales">
+    
+    <div class="card tarjeta" style="width: 18rem;">
+        <div class="card-body">
+            <h5 class="card-title">Empresa1</h5>
+            <p class="card-text">Redime tokens en ropa</p>
+        </div>
+    </div>
+    <div class="card tarjeta" style="width: 18rem;">
+        <div class="card-body">
+            <h5 class="card-title">Empresa2</h5>
+            <p class="card-text">Redime tokens en alimentos.</p>
+        </div>
+    </div>
+    <div class="card tarjeta" style="width: 18rem;">
+        <div class="card-body">
+            <h5 class="card-title">Empresa3</h5>
+            <p class="card-text">Redime tokens en electrónica </p>
+        </div>
+    
+    </div>
+    <div class="card tarjeta" style="width: 18rem;">
+        <div class="card-body">
+            <h5 class="card-title">Empresa4</h5>
+            <p class="card-text">Redime en clases en Helber</p>
+        </div>
+    </div>
+    
+</div>
+
+
+
+<div class="box">
+<form  id="solarForm">
+        <h2>Calcula el retorno de inversión en paneles solares</h2>
+            <div class="inputBox">
+            <input id="name" type="text" required>
+            <span>Nombre Completo</span>
+            <i></i>
+            </div>
+            <div class="inputBox">
+            <input id="email" type="email"  required>
+            <span>Email</span>
+            <i></i>
+
+            </div>
+            <div class="inputBox">
+            <input id="telefono" type="number" required>
+            <span>Telefono</span>
+            <i></i>
+            </div>
+            <div class="inputBox">
+            <input id="consumo" type="number" required>
+            <span>Kwh último mes</span>
+            <i></i>
+            </div>
+            <div class="inputBox">
+            <input id="costo" type="number" required>
+            <span>Costo última Factura</span>
+            <i></i>
+            </div>
+
+
+        <div class="inputBox">
+        <select id="departamento">
+        <option value="">-- Selecciona un departamento --</option>
+        </select>
+
+        <select id="ciudad">
+        <option value="">-- Selecciona una ciudad --</option>
+        </select>
+            </div>
+            <div class="terminos">
+                <label for="terms">Acepto los términos</label>
+                <input id="terms" type="checkbox" required>
+            </div>
+
+<button type="button" onclick="capturarDatos()" class="boton-calcular">Calcular</button>
+    <br>
+    <br>
+    </form>    
+</div>
+
+<script src="calc.js"></script>   
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
+
+<script>
+    // Activar tooltips
+    $(function () {
+        $('[data-bs-toggle="tooltip"]').tooltip();
+    });
+</script> 
+</body>
+
+</html>

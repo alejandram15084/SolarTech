@@ -1,0 +1,479 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+label {
+    font-weight: bold;
+}
+
+select {
+    margin: 10px;
+    padding: 5px;
+    font-size: 14px;
+}
+
+canvas {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0,0,0,0.1);
+    margin-top: 20px;
+}
+
+
+
+/*--------------------------------------------------------------
+#  Header
+--------------------------------------------------------------*/
+
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  z-index: 997;
+  padding: 10px 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: all 0.5s;
+}
+
+.header-container {
+  width: 100%;
+  height: auto;
+  background-color: white;
+  max-width: 1140px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding:  5px 25px 5px 30px;
+  position: relative;
+  box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 50px;
+}
+
+
+.logo h1 {
+  font-size: 20px;
+  margin: 0;
+  font-weight: 600;
+  color: #0f232a;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+
+
+.header .btn-dashboard {
+  color: white;
+  background: #0f232a;
+  font-size: 14px;
+  padding: 8px 20px;
+  margin: 0 0 0 30px;
+  border-radius: 50px;
+  transition: 0.3s;
+}
+
+.header .btn-dashboard:hover,
+.header .btn-dashboard:focus:hover {
+  color: var(--contrast-color);
+  background: color-mix(in srgb, var(--accent-color), transparent 15%);
+}
+
+@media (max-width: 1200px) {
+  .header {
+    padding-top: 10px;
+  }
+
+  .header .header-container {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px 5px 10px 15px;
+  }
+
+
+  .header .btn-dashboard {
+    order: 2;
+    margin: 0 10px 0 0;
+    padding: 6px 15px;
+  }
+
+  .header .navmenu {
+    order: 3;
+  }
+}
+
+
+
+/*--------------------------------------------------------------
+# Navbar
+--------------------------------------------------------------*/
+
+/* Desktop Navigation */
+@media (min-width: 1200px) {
+  .navmenu {
+    padding: 0;
+  }
+
+  .navmenu ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    
+  }
+
+  .navmenu li {
+    position: relative;
+    display: inline;
+    margin-left: 20px;
+  }
+
+  .navmenu a,
+  .navmenu a:focus {
+    color: var(--default-color);
+    font-size: 17px;
+    padding: 0 2px;
+    font-family: var(--nav-font);
+    font-weight: 60;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    white-space: nowrap;
+    transition: 0.3s;
+    position: relative;
+  }
+
+  .navmenu a i,
+  .navmenu a:focus i {
+    font-size: 12px;
+    line-height: 0;
+    margin-left: 5px;
+    transition: 0.3s;
+  }
+
+  .navmenu>ul>li:last-child {
+    padding-right: 0;
+  }
+
+
+  .navmenu>ul>li {
+    white-space: nowrap;
+    padding: 4px 4px;
+  }
+
+  .navmenu li:hover>a,
+  .navmenu .active,
+  .navmenu .active:focus {
+    color: #F8C023;
+  }
+
+
+  .navmenu>ul>li>a:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: -6px;
+    left: 0;
+    background-color: var(--accent-color);
+    visibility: hidden;
+    width: 0px;
+    transition: all 0.3s ease-in-out 0s;
+  }
+
+  .navmenu a:hover:before,
+  .navmenu li:hover>a:before,
+  .navmenu .active:before {
+    visibility: visible;
+    width: 100%;
+  }
+}
+
+
+/* Navmenu - Mobile */
+@media (max-width: 1199px) {
+  .mobile-nav-toggle {
+    color: var(--nav-color);
+    font-size: 28px;
+    line-height: 0;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+
+  .navmenu {
+    padding: 0;
+    z-index: 9997;
+  }
+
+  .navmenu ul {
+    display: none;
+    list-style: none;
+    position: absolute;
+    inset: 60px 20px 20px 20px;
+    padding: 10px 0;
+    margin: 0;
+    border-radius: 6px;
+    background-color: var(--background-color);
+    overflow-y: auto;
+    transition: 0.3s;
+    z-index: 9998;
+    box-shadow: 0px 0px 30px var(--background-color);
+  }
+
+  .navmenu a,
+  .navmenu a:focus {
+    color: var(--default-color);
+    padding: 10px 20px;
+    font-family: var(--nav-font);
+    font-size: 17px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    white-space: nowrap;
+    transition: 0.3s;
+  }
+
+  .navmenu a i,
+  .navmenu a:focus i {
+    font-size: 12px;
+    line-height: 0;
+    margin-left: 5px;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: 0.3s;
+    background-color: color-mix(in srgb, var(--background-color), transparent 90%);
+  }
+
+  .navmenu a i:hover,
+  .navmenu a:focus i:hover {
+    background-color: var(--accent-color);
+    color: var(--contrast-color);
+  }
+
+  .navmenu a:hover,
+  .navmenu .active,
+  .navmenu .active:focus {
+    color: var(--heading-color);
+  }
+
+  .navmenu .active i,
+  .navmenu .active:focus i {
+    background-color: var(--accent-color);
+    color: var(--contrast-color);
+    transform: rotate(180deg);
+  }
+
+
+  .mobile-nav-active {
+    overflow: hidden;
+  }
+
+  .mobile-nav-active .mobile-nav-toggle {
+    color: #fff;
+    position: absolute;
+    font-size: 32px;
+    top: 15px;
+    right: 15px;
+    margin-right: 0;
+    z-index: 9999;
+  }
+
+  .mobile-nav-active .navmenu {
+    position: fixed;
+    overflow: hidden;
+    inset: 0;
+    background: #bacadc ;
+    transition: 0.3s;
+  }
+
+  .mobile-nav-active .navmenu>ul {
+    display: block;
+  }
+}
+
+
+/*--------------------------------------------------------------
+# Hero 
+--------------------------------------------------------------*/
+
+.hero {
+  padding: 0;
+  margin: 0;
+  position: relative;
+  overflow: hidden;
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.hero::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: repeating-linear-gradient(45deg, rgba(255, 255, 255, 0.02) 0px, rgba(255, 255, 255, 0.05) 1px, transparent 1px, transparent 10px);
+  z-index: 1;
+}
+
+.hero-wrapper {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 120px 20px 0px 20px;
+  box-sizing: border-box;
+}
+
+.hero-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 90%;
+  z-index: 1;
+}
+
+
+.hero-image img {
+  width: 100%;
+  height: 120%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.hero-image::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 120%;
+  z-index: 2;
+  background: linear-gradient(
+    135deg,
+    color-mix(in srgb, var(--background-color), transparent 80%) 0%,
+    color-mix(in srgb, var(--background-color), transparent 80%) 100%
+  )
+}
+
+.hero-content {
+  position: relative;
+  z-index: 3;
+  padding: 3rem 0;
+  width: 100%;
+  max-width: 1500px;
+  margin-left: 140px;
+  margin-bottom: 2rem;
+}
+
+.hero-content .content-box h1 {
+  font-size: 5rem;
+  font-size: 6rem;
+  font-weight: 750;
+  margin-bottom: 1.5rem;
+  line-height: 1.1;
+  letter-spacing: -1px;
+  margin: 1;
+
+}
+
+@media (max-width: 1200px) {
+  .hero .main-heading h1 {
+    font-size: 7rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .hero .main-heading h1 {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero .main-heading h1 {
+    font-size: 2.5rem;
+  }
+}
+
+.hero-content .content-box p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  line-height: 1.7;
+  color: color-mix(in srgb, var(--default-color), transparent 10%);
+  margin: 10;
+
+}
+
+.hero .cta-button .btn {
+  display: inline-flex;
+  color: var(--default-color);
+  padding: 0.75rem 1.5rem;
+  border-radius: 50px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+  color: var(--contrast-color);
+  background: #0f232a;
+}
+
+
+
+/*--------------------------------------------------------------
+#  Section Graficas
+---------------------------------------------------------------*/
+
+
+.grafica {
+    background-color: var(--surface-color);     
+    border-radius: 15px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    padding: 40px;            
+    margin: 20px 0;           
+    width: 95%;              
+    box-sizing: border-box;  
+    position: relative;       
+}
+
+.grafica canvas {
+    display: block;
+    margin: 0 auto;         
+    width: 90%;
+    max-width: 950px;       
+    max-height: 450px;
+}
+
+
+
+
+/* GRAFICA 1 */ 
+
+
+.filtro-paises {
+    position: absolute;
+    top: 250px;
+    right: 4px;
+    padding: 4px;
+    min-width: 200px;
+    width: 220px;
+}
+

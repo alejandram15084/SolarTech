@@ -1,0 +1,412 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+    background: #23242a;
+}
+
+.box {
+    position: relative;
+    width: 500px;
+    height: 800px;
+    background: #1c1c1c;
+    overflow: hidden;
+    z-index: 0;
+}
+
+/* Cambiar la propiedad z-index para la caja giratoria */
+/* Cambiar la propiedad z-index para la caja giratoria */
+/* Animación de fondo */
+.box::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: conic-gradient(from 0deg, transparent 40%, rgba(69,243,255,0.8) 50%, transparent 60%);
+    animation: animate 4s linear infinite;
+    z-index: 2;  /* Asegurar que la animación esté detrás del formulario */
+}
+
+/* Formulario visible por encima de la animación */
+form {
+    position: absolute;
+    inset: 2px;
+    background: #28292d;
+    padding: 50px 40px;
+    border-radius: 8px;
+    z-index: 1;  /* Asegurar que el formulario esté por encima de la animación */
+}
+
+/* Botón "Volver a calcular" debe estar por encima */
+.resultado button {
+    position: relative;
+    z-index: 3;  /* Asegurar que el botón esté por encima del formulario y animación */
+}
+
+/* Asegurar que el formulario también esté en una capa superior */
+form {
+    position: relative;
+    inset: 2px;
+    background: #28292d;
+    padding: 50px 40px;
+    border-radius: 8px;
+    z-index: 2;  /* Capa encima del fondo */
+    display: flex;
+    flex-direction: column;
+}
+
+
+@keyframes animate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+form {
+    position: absolute;
+    inset: 2px;
+    background: #28292d;
+    padding: 50px 40px;
+    border-radius: 8px;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    color: #45f3ff;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 0.1em;
+}
+
+.inputBox {
+    position: relative;
+    width: 300px;
+    margin-top: 35px;
+}
+
+.inputBox input {
+    position: relative;
+    width: 100%;
+    padding: 20px 10px 10px;
+    background: transparent;
+    outline: none;
+    box-shadow: none;
+    border: none;
+    color: #23242a;
+    font-size: 1em;
+    letter-spacing: 0.05em;
+    transition: 0.5s;
+    z-index: 10;
+}
+
+.terminos {
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 20px auto;
+    width: fit-content;
+}
+
+.terminos label {
+    color: #8f8f8f;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.terminos input[type="checkbox"] {
+    transform: scale(1.2);
+    margin-left: 5px;
+}
+
+.inputBox span {
+    position: absolute;
+    left: 0;
+    padding: 20px 0px 10px;
+    pointer-events: none;
+    font-size: 1em;
+    color: #8f8f8f;
+    letter-spacing: 0.05em;
+    transition: 0.5s;
+}
+
+.inputBox input:valid ~ span,
+.inputBox input:focus ~ span {
+    color: #45f3ff;
+    transform: translateX(0px) translateY(-34px);
+    font-size: 0.75em;
+}
+
+.inputBox i {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 2px;
+    overflow: hidden;
+    transition: 0.5s;
+    pointer-events: none;
+    z-index: 9;
+    background: #45f3ff;
+}
+
+.inputBox input:valid ~ i,
+.inputBox input:focus ~ i {
+    height: 44px;
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+}
+
+.links a {
+    margin: 10px 0;
+    font-size: 0.75em;
+    color: #8f8f8f;
+    text-decoration: beige;
+}
+
+.links a:hover, .links a:nth-child(2) {
+    color: #45f3ff;
+}
+
+input[type="submit"] {
+    border: none;
+    outline: none;
+    padding: 11px 25px;
+    background: #45f3ff;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: 600;
+    width: 140px;
+    margin-top: 10px;
+}
+
+input[type="submit"]:active {
+    opacity: 0.8;
+}
+
+button {
+    align-self: center;
+}
+
+.resultado {
+    padding: 40px;
+    color: #45f3ff;
+    text-align: left;
+}
+
+.resultado h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #45f3ff;
+}
+
+.resultado h3 {
+    margin-top: 20px;
+    color: #45f3ff;
+}
+
+.resultado p, .resultado li {
+    color: #8f8f8f;
+    font-size: 16px;
+}
+
+.resultado button {
+    border: none;
+    outline: none;
+    padding: 11px 25px;
+    background: #45f3ff;
+    color: #23242a;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: 600;
+    display: block;
+    margin: 20px auto 0 auto;
+}
+
+.resultado button:hover {
+    background: #38d0e8;
+}
+
+/* Animación suave */
+.fade-in {
+    animation: fadeIn 0.8s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+nav {
+    padding: 10px 20px;
+    align-self: flex-start;
+}
+
+nav li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    font: var(--default-font);
+    color: #8f8f8f;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #38d0e8;
+}
+
+/* Estilo para la tarjeta */
+.tarjeta {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 10px;  /* Bordes redondeados */
+    overflow: hidden;     /* Para que los bordes sean suaves y no se salga contenido */
+    background-color: #333; /* Fondo de la tarjeta */
+    padding: 1em;
+    margin: 1em;
+}
+
+/* Efecto de escala al pasar el mouse */
+.tarjeta:hover {
+    transform: scale(1.05);  /* La tarjeta se hace un poco más grande */
+    box-shadow: 0 4px 15px #38d0e8; /* Sombra sutil */
+}
+
+/* Estilo de la imagen */
+.card-img-top {
+    object-fit: cover;  /* Hace que la imagen ocupe todo el espacio disponible */
+    height: 150px; /* Altura fija para las imágenes */
+}
+
+/* Estilo para el título y el texto */
+.card-title {
+    color: #45f3ff;
+    font-size: 1.25rem; /* Tamaño de fuente */
+}
+
+.card-text {
+    color: #ccc;  /* Texto en gris claro */
+}
+
+/* Estilo para el botón */
+.btn-primary {
+    border-color: #0062cc;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+
+}
+/* Personalización del tooltip */
+.tooltip-inner {
+    background-color: #45f3ff;   /* Fondo azul claro */
+    color: #23242a;               /* Texto en color oscuro */
+    font-size: 1rem;              /* Tamaño de fuente */
+    font-weight: bold;            /* Hacer el texto en negrita */
+    padding: 10px 15px;           /* Espaciado dentro del tooltip */
+    border-radius: 5px;           /* Bordes redondeados */
+}
+
+/* Personalización de la flecha del tooltip */
+.tooltip-arrow {
+    border-top-color: #45f3ff;   /* Color de la flecha del tooltip */
+}
+
+/* Modificar la sombra del tooltip */
+.tooltip.bs-tooltip-top {
+    box-shadow: 0 4px 10px rgba(184, 151, 3, 0.2);  /* Sombra sutil */
+}
+
+/* Contenedor de las tarjetas laterales */
+.tarjetas-laterales {
+    display: flex;
+    flex-direction: column; /* Poner las tarjetas en columna */
+    gap: 20px; /* Espaciado entre las tarjetas */
+    position: absolute;
+    left: 10px;  /* Posición a la izquierda */
+    top: 50%;    /* Centrado vertical */
+    transform: translateY(-50%);  /* Ajuste fino para centrar */
+    z-index: 2; /* Asegura que las tarjetas estén por encima del fondo */
+}
+
+/* Estilo adicional para las tarjetas laterales */
+.tarjetas-laterales .card {
+    width: 18rem; /* Ancho de las tarjetas */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background-color: #333; /* Color de fondo */
+    border-radius: 8px;
+}
+
+/* Efecto de transición cuando el mouse pasa sobre las tarjetas */
+.tarjetas-laterales .card:hover {
+    transform: scale(1.05); /* Escala ligeramente la tarjeta */
+    box-shadow: 0 4px 15px #38d0e8; /* Sombra */
+}
+
+/* Estilo de las imágenes de las tarjetas */
+.tarjetas-laterales .card-img-top {
+    object-fit: cover;
+    height: 150px;
+    border-radius: 8px 8px 0 0;
+}
+
+/* Estilo de los títulos y texto de las tarjetas */
+.tarjetas-laterales .card-title {
+    color: #45f3ff;
+    font-size: 1.25rem;
+}
+
+.tarjetas-laterales .card-text {
+    color: #ccc;
+}
+
+.boton-calcular {
+    border: none;
+    outline: none;
+    padding: 11px 25px;
+    background: #45f3ff;
+    color: #23242a;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: 600;
+    display: block;
+    margin: 20px auto 0 auto;
+    width: 140px;
+    text-align: center;
+    transition: background 0.3s ease;
+}
+
+.boton-calcular:hover {
+    background: #38d0e8;
+}
+
+.boton-calcular:active {
+    opacity: 0.8;
+}
+
+
+

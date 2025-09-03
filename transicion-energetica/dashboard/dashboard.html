@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard Energías Renovables</title>
+
+    <link rel="stylesheet" href="style.css">
+
+
+    <link href="../img/logo.png" rel="icon">
+    
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+</head>
+<body>
+
+    <!-- Navbar Start -->
+    <header class="header" id="header">
+        <div class="header-container">
+            <a href="../index.html" class="logo">
+                <h1>SolarTech</h1>
+            </a>
+
+            <nav id="navmenu" class="navmenu">
+                <ul>
+                  <li><a href="../index.html" class="active">Inicio</a></li>
+                  <li><a href="../calculadora.html">Calculadora</a></li>
+                  <li><a class="btn-dashboard" href="/dashboard/dashboard.html">Dashboard</a></li>
+                </ul>
+                <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+            </nav>
+        </div>
+    </header>
+    <!-- Navbar End -->
+
+
+
+    <!-- Grafica 1 -->
+
+    <div class="grafica grafica_1">   
+        <h1>Producción de Energía Renovable por Fuente</h1>
+        
+        <div>
+            <label for="entitySelectGraf1">Selecciona entidad:</label>
+            <select id="entitySelectGraf1">
+                <option value="World">World</option>
+                <option value="Africa">Africa</option>
+                <option value="Asia">Asia</option>
+                <option value="Europe">Europe</option>
+                <option value="North America">North America</option>
+                <option value="South America">South America</option>
+                <option value="Oceania">Oceania</option>
+            </select>
+        </div>
+
+
+        <div class="contenedor-flex">
+
+            <canvas id="energyChart" width="600" height="300"></canvas>
+
+
+            <div id="countryFilterContainer" class="filtro-paises" style="display:none;">
+                <label for="countrySelectGraf1">Selecciona país:</label><br>
+                <select id="countrySelectGraf1" multiple size="8"></select>
+            </div>
+        </div>
+    </div> 
+
+
+
+    <!-- Grafica 2 -->
+    <div class="grafica grafica_2">   
+        <h1>Participación de Energías Renovables</h1>
+
+        <label for="entitySelectPie">Selecciona continente: </label>
+        <select id="entitySelectPie"></select>
+
+        <label for="yearSelectPie">Selecciona un año:</label>
+        <select id="yearSelectPie"></select>
+
+        <canvas id="energyPieChart" width="600" height="300"></canvas>
+    </div>
+
+
+
+    <!-- Grafica 3 -->
+    <div class="grafica grafica_3">   
+        <h1> Tendencia en la Capacidad Instalada</h1>
+
+        <label for="continentSelectLine">Selecciona continente:</label>
+            <select id="continentSelectLine">
+                <option value="World">World</option>
+                <option value="Africa">Africa</option>
+                <option value="Asia">Asia</option>
+                <option value="Europe">Europe</option>
+                <option value="North America">North America</option>
+                <option value="South America">South America</option>
+                <option value="Oceania">Oceania</option>
+            </select>
+
+        <div class="contenedor-flex"></div>
+
+            <canvas id="capacityLineChart" width="600" height="300"></canvas>
+
+
+            <div id="countryFilterContainerLine" class="filtro-paises" style="display:none;">
+                <label for="countrySelectGraf3">Selecciona país:</label><br>
+                <select id="countrySelectGraf3" multiple size="8"></select>
+            </div>
+        </div>
+
+    </div>
+
+
+
+    <!-- Grafica 4 -->
+    <div class="grafica grafica_4">   
+        <h1> Comparación entre Consumo de Energía Renovable y Convencional</h1>
+
+        <label for="entitySelectGraf4">Entidad: World</label>
+
+            </select>
+            <canvas id="energyArea" width="400" height="200"></canvas>
+
+
+
+
+    </div>
+
+
+    
+
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+    <script src="main.js"></script>
+
+
+</body>
+</html>

@@ -1,0 +1,1866 @@
+Year,Entity,Continent,Eólica,Solar,Geotérmica
+1975,World,World,,,1300.0
+1980,World,World,,,3887.0
+1985,World,World,,,4764.0
+1990,Africa,Africa,,,45.0
+1990,Chile,South America,,,0.0
+1990,China,Asia,,,29.3
+1990,Costa Rica,North America,,,0.0
+1990,Croatia,Europe,,,0.0
+1990,El Salvador,North America,,,95.0
+1990,Ethiopia,Africa,,,0.0
+1990,Europe,Europe,,,617.6
+1990,France,Europe,,,4.2
+1990,Germany,Europe,,,0.0
+1990,Guatemala,North America,,,0.0
+1990,Honduras,North America,,,0.0
+1990,Iceland,Europe,,,44.8
+1990,Italy,Europe,,,545.0
+1990,Japan,Asia,,,214.6
+1990,Kenya,Africa,,,45.0
+1990,Mexico,North America,,,743.0
+1990,New Zealand,Oceania,,,261.0
+1990,Nicaragua,North America,,,35.0
+1990,North America,North America,,,3656.5
+1990,Other South & Central America,South America,,,0.0
+1990,Papua New Guinea,Oceania,,,0.0
+1990,Philippines,Asia,,,888.0
+1990,Portugal,Europe,,,3.0
+1990,Russia,Europe,,,11.0
+1990,South & Central America,South America,,,130.0
+1990,Turkey,Europe,,,20.6
+1990,United States,North America,,,2913.5
+1990,World,World,,,5853.5
+1995,Africa,Africa,,,45.0
+1995,Chile,South America,,,0.0
+1995,China,Asia,,,26.3
+1995,Costa Rica,North America,,,55.0
+1995,Croatia,Europe,,,0.0
+1995,El Salvador,North America,,,105.0
+1995,Ethiopia,Africa,,,0.0
+1995,Europe,Europe,,,710.9
+1995,France,Europe,,,4.2
+1995,Germany,Europe,,,0.0
+1995,Guatemala,North America,,,0.0
+1995,Honduras,North America,,,0.0
+1995,Iceland,Europe,,,49.6
+1995,Italy,Europe,,,631.7
+1995,Japan,Asia,,,413.7
+1995,Kenya,Africa,,,45.0
+1995,Mexico,North America,,,743.0
+1995,New Zealand,Oceania,,,265.0
+1995,Nicaragua,North America,,,70.0
+1995,North America,North America,,,3913.96
+1995,Other South & Central America,South America,,,0.0
+1995,Papua New Guinea,Oceania,,,0.0
+1995,Philippines,Asia,,,1154.0
+1995,Portugal,Europe,,,5.0
+1995,Russia,Europe,,,11.0
+1995,South & Central America,South America,,,230.0
+1995,Turkey,Europe,,,20.4
+1995,United States,North America,,,3170.96
+1995,World,World,4.7780000000000005,,6770.36
+1996,Africa,Africa,,0.0011124251999999,
+1996,Algeria,Africa,,0.0,
+1996,Argentina,South America,,0.0,
+1996,Asia,Asia,,0.061,
+1996,Australia,Oceania,,0.016,
+1996,Austria,Europe,,0.0017,
+1996,Belgium,Europe,,0.0,
+1996,Brazil,South America,,0.0,
+1996,Bulgaria,Europe,,0.0,
+1996,Canada,North America,,0.003,
+1996,Chile,South America,,0.0,
+1996,China,Asia,,0.001,
+1996,Czechia,Europe,,0.0,
+1996,Denmark,Europe,,0.0,
+1996,Egypt,Africa,,0.0001,
+1996,Europe,Europe,,0.0669,
+1996,France,Europe,,0.004,
+1996,Germany,Europe,,0.028,
+1996,Greece,Europe,,0.0,
+1996,Honduras,North America,,0.0,
+1996,Hungary,Europe,,0.0,
+1996,India,Asia,,0.0,
+1996,Israel,Asia,,0.0,
+1996,Italy,Europe,,0.016,
+1996,Japan,Asia,,0.06,
+1996,Jordan,Asia,,0.0,
+1996,Malaysia,Asia,,0.0,
+1996,Mexico,North America,,0.01,
+1996,Morocco,Africa,,0.0,
+1996,Netherlands,Europe,,0.0007,
+1996,North America,North America,,0.0269,
+1996,Oceania,Oceania,,0.016,
+1996,Pakistan,Asia,,0.0,
+1996,Philippines,Asia,,0.0,
+1996,Portugal,Europe,,0.0004,
+1996,Romania,Europe,,0.0,
+1996,Russia,Europe,,0.0,
+1996,Slovakia,Europe,,0.0,
+1996,South Africa,Africa,,0.0,
+1996,South America,South America,,0.0,
+1996,South Korea,Asia,,0.0,
+1996,Spain,Europe,,0.001,
+1996,Sweden,Europe,,0.002,
+1996,Switzerland,Europe,,0.008,
+1996,Taiwan,Asia,,0.0,
+1996,Thailand,Asia,,0.0,
+1996,Turkey,Europe,,0.0,
+1996,Ukraine,Europe,,0.0,
+1996,United Kingdom,Europe,,0.0002,
+1996,United States,North America,,0.0139,
+1996,World,World,6.07,0.17181242,
+1997,Africa,Africa,0.006,0.0031372757,
+1997,Algeria,Africa,,0.0,
+1997,Argentina,South America,0.009,0.0,
+1997,Asia,Asia,1.127,0.0938,
+1997,Australia,Oceania,0.004,0.019,
+1997,Austria,Europe,0.02,0.0022,
+1997,Belgium,Europe,0.009,0.0,
+1997,Brazil,South America,0.004,0.0,
+1997,Bulgaria,Europe,0.0,0.0,
+1997,Canada,North America,0.026,0.003,
+1997,Chile,South America,0.0,0.0,
+1997,China,Asia,0.146,0.0025,
+1997,Costa Rica,North America,0.023,,
+1997,Czechia,Europe,,0.0,
+1997,Denmark,Europe,1.116,0.0,
+1997,Egypt,Africa,0.006,0.0001,
+1997,Europe,Europe,4.801,0.0873,
+1997,Finland,Europe,0.012,,
+1997,France,Europe,0.013,0.006,
+1997,Germany,Europe,2.089,0.042,
+1997,Greece,Europe,0.029,0.0,
+1997,Honduras,North America,,0.0,
+1997,Hungary,Europe,,0.0,
+1997,India,Asia,0.94,0.0,
+1997,Iran,Asia,0.009,,
+1997,Ireland,Europe,0.053,,
+1997,Israel,Asia,,0.0003,
+1997,Italy,Europe,0.103,0.017,
+1997,Japan,Asia,0.017,0.091,
+1997,Jordan,Asia,,0.0,
+1997,Malaysia,Asia,,0.0,
+1997,Mexico,North America,0.002,0.011,
+1997,Morocco,Africa,0.0,0.0,
+1997,Netherlands,Europe,0.329,0.001,
+1997,New Zealand,Oceania,0.004075,,
+1997,North America,North America,1.662,0.0286,
+1997,Norway,Europe,0.005,,
+1997,Oceania,Oceania,0.0080749999999999,0.019,
+1997,Pakistan,Asia,0.0,0.0,
+1997,Philippines,Asia,0.0,0.0,
+1997,Poland,Europe,0.002,0.0,
+1997,Portugal,Europe,0.039,0.0005,
+1997,Romania,Europe,0.0,0.0,
+1997,Russia,Europe,,0.0,
+1997,Slovakia,Europe,,0.0,
+1997,South Africa,Africa,0.0,0.002,
+1997,South America,South America,0.013,0.0,
+1997,South Korea,Asia,0.001,0.0,
+1997,Spain,Europe,0.512,0.001,
+1997,Sweden,Europe,0.122,0.002,
+1997,Switzerland,Europe,,0.01,
+1997,Taiwan,Asia,0.001,0.0,
+1997,Thailand,Asia,0.0,0.0,
+1997,Tunisia,Africa,0.0,,
+1997,Turkey,Europe,0.009,0.0,
+1997,Ukraine,Europe,,0.0,
+1997,United Kingdom,Europe,0.328,0.0004,
+1997,United States,North America,1.611,0.0146,
+1997,Uruguay,South America,0.0,,
+1997,World,World,7.623075,0.23173727,
+1998,Africa,Africa,0.01,0.0051621259999999,
+1998,Algeria,Africa,,0.0,
+1998,Argentina,South America,0.014,0.0,
+1998,Asia,Asia,1.246,0.1393,
+1998,Australia,Oceania,0.01,0.023,
+1998,Austria,Europe,0.03,0.0029,
+1998,Belgium,Europe,0.01,0.0,
+1998,Brazil,South America,0.019,0.0,
+1998,Bulgaria,Europe,0.0,0.0,
+1998,Canada,North America,0.083,0.005,
+1998,Chile,South America,0.0,0.0,
+1998,China,Asia,0.2,0.005,
+1998,Costa Rica,North America,0.027,,
+1998,Czechia,Europe,,0.0,
+1998,Denmark,Europe,1.42,0.0,
+1998,Egypt,Africa,0.006,0.0001,
+1998,Europe,Europe,6.3741,0.1054,
+1998,Finland,Europe,0.018,,
+1998,France,Europe,0.021,0.008,
+1998,Germany,Europe,2.877,0.054,
+1998,Greece,Europe,0.0381,0.0,
+1998,Honduras,North America,,0.0,
+1998,Hungary,Europe,,0.0,
+1998,India,Asia,0.992,0.0,
+1998,Iran,Asia,0.009,,
+1998,Ireland,Europe,0.064,,
+1998,Israel,Asia,,0.0003,
+1998,Italy,Europe,0.197,0.018,
+1998,Japan,Asia,0.03,0.133,
+1998,Jordan,Asia,,0.0,
+1998,Malaysia,Asia,,0.0,
+1998,Mexico,North America,0.002,0.012,
+1998,Morocco,Africa,0.002,0.0,
+1998,Netherlands,Europe,0.379,0.001,
+1998,New Zealand,Oceania,0.004075,,
+1998,North America,North America,2.253,0.0322,
+1998,Norway,Europe,0.008,,
+1998,Oceania,Oceania,0.0140749999999999,0.023,
+1998,Pakistan,Asia,0.0,0.0,
+1998,Philippines,Asia,0.0,0.0,
+1998,Poland,Europe,0.002,0.0,
+1998,Portugal,Europe,0.051,0.0006,
+1998,Romania,Europe,0.0,0.0,
+1998,Russia,Europe,,0.0,
+1998,Slovakia,Europe,,0.0,
+1998,South Africa,Africa,0.0,0.004,
+1998,South America,South America,0.033,0.0,
+1998,South Korea,Asia,0.001,0.0,
+1998,Spain,Europe,0.723,0.001,
+1998,Sweden,Europe,0.176,0.002,
+1998,Switzerland,Europe,,0.012,
+1998,Taiwan,Asia,0.001,0.0,
+1998,Thailand,Asia,0.0,0.0,
+1998,Tunisia,Africa,0.002,,
+1998,Turkey,Europe,0.009,0.0,
+1998,Ukraine,Europe,,0.0,
+1998,United Kingdom,Europe,0.338,0.0005,
+1998,United States,North America,2.141,0.0152,
+1998,Uruguay,South America,0.0,,
+1998,World,World,9.936175,0.30496213,
+1999,Africa,Africa,0.064,0.008199402,
+1999,Algeria,Africa,,0.0,
+1999,Argentina,South America,0.014,0.0,
+1999,Asia,Asia,1.395,0.2214,
+1999,Australia,Oceania,0.01,0.025,
+1999,Austria,Europe,0.042,0.0037,
+1999,Belgium,Europe,0.011,0.0,
+1999,Brazil,South America,0.022,0.0,
+1999,Bulgaria,Europe,0.0,0.0,
+1999,Canada,North America,0.126,0.006,
+1999,Chile,South America,0.0,0.0,
+1999,China,Asia,0.262,0.01,
+1999,Costa Rica,North America,0.035,,
+1999,Czechia,Europe,,0.0,
+1999,Denmark,Europe,1.738,0.0,
+1999,Egypt,Africa,0.036,0.0001,
+1999,Europe,Europe,9.2708,0.1315,
+1999,Finland,Europe,0.039,,
+1999,France,Europe,0.025,0.009,
+1999,Germany,Europe,4.4350000000000005,0.07,
+1999,Greece,Europe,0.1058,0.0,
+1999,Honduras,North America,,0.001,
+1999,Hungary,Europe,,0.0,
+1999,India,Asia,1.035,0.0,
+1999,Iran,Asia,0.009,,
+1999,Ireland,Europe,0.074,,
+1999,Israel,Asia,,0.0004,
+1999,Italy,Europe,0.277,0.018,
+1999,Japan,Asia,0.068,0.209,
+1999,Jordan,Asia,,0.0,
+1999,Malaysia,Asia,,0.0,
+1999,Mexico,North America,0.002,0.013,
+1999,Morocco,Africa,0.02,0.0,
+1999,Netherlands,Europe,0.433,0.005,
+1999,New Zealand,Oceania,0.035755,,
+1999,North America,North America,2.608,0.0366,
+1999,Norway,Europe,0.013,,
+1999,Oceania,Oceania,0.045755,0.025,
+1999,Pakistan,Asia,0.0,0.0,
+1999,Philippines,Asia,0.0,0.0,
+1999,Poland,Europe,0.002,0.0,
+1999,Portugal,Europe,0.061,0.0009,
+1999,Romania,Europe,0.0,0.0,
+1999,Russia,Europe,,0.0,
+1999,Slovakia,Europe,,0.0,
+1999,South Africa,Africa,0.0,0.006,
+1999,South America,South America,0.036,0.0,
+1999,South Korea,Asia,0.005,0.0,
+1999,Spain,Europe,1.408,0.002,
+1999,Sweden,Europe,0.22,0.003,
+1999,Switzerland,Europe,,0.013,
+1999,Taiwan,Asia,0.001,0.0,
+1999,Thailand,Asia,0.0,0.0,
+1999,Tunisia,Africa,0.008,,
+1999,Turkey,Europe,0.009,0.0,
+1999,Ukraine,Europe,,0.0,
+1999,United Kingdom,Europe,0.362,0.0009,
+1999,United States,North America,2.445,0.0166,
+1999,Uruguay,South America,0.0,,
+1999,World,World,13.426555,0.4235994,
+2000,Africa,Africa,0.13905,0.010927,65.3
+2000,Algeria,Africa,,0.0,
+2000,Argentina,South America,0.014112,2.5e-05,
+2000,Asia,Asia,1.41426,0.37112,
+2000,Australia,Oceania,0.033,0.025,
+2000,Austria,Europe,0.05,0.005,
+2000,Belgium,Europe,0.014,0.0,
+2000,Brazil,South America,0.022,0.0,
+2000,Bulgaria,Europe,0.0,0.0,
+2000,Canada,North America,0.092,0.007,
+2000,Chile,South America,0.0,0.0,0.0
+2000,China,Asia,0.341,0.033515,21.7
+2000,Costa Rica,North America,0.0425,,145.0
+2000,Croatia,Europe,,,0.0
+2000,Czechia,Europe,,0.0001,
+2000,Denmark,Europe,2.390015,0.001,
+2000,Egypt,Africa,0.074,0.0001,
+2000,El Salvador,North America,,,161.2
+2000,Ethiopia,Africa,,,7.3
+2000,Europe,Europe,12.733664,0.2001,794.0
+2000,Finland,Europe,0.038,,
+2000,France,Europe,0.038,0.007,0.0
+2000,Germany,Europe,6.095,0.114,0.0
+2000,Greece,Europe,0.226,0.0,
+2000,Guatemala,North America,,,29.0
+2000,Honduras,North America,,0.001599,0.0
+2000,Hungary,Europe,,0.0,
+2000,Iceland,Europe,,,172.0
+2000,India,Asia,0.941,0.001084,
+2000,Indonesia,Asia,,,525.0
+2000,Iran,Asia,0.011,,
+2000,Ireland,Europe,0.1165,,
+2000,Israel,Asia,,0.0,
+2000,Italy,Europe,0.363,0.019,590.0
+2000,Japan,Asia,0.084,0.33,533.0
+2000,Jordan,Asia,0.0014,1.5e-05,
+2000,Kenya,Africa,,,58.0
+2000,Malaysia,Asia,,0.0,
+2000,Mexico,North America,0.017,0.014,855.0
+2000,Morocco,Africa,0.054,0.0067,
+2000,Netherlands,Europe,0.447,0.013,
+2000,New Zealand,Oceania,0.036,,418.0
+2000,Nicaragua,North America,,,21.0
+2000,North America,North America,2.5285,0.198599,3648.0
+2000,Norway,Europe,0.013,,
+2000,Oceania,Oceania,0.069,0.025,
+2000,Other South & Central America,South America,,,4.600000000000023
+2000,Pakistan,Asia,0.0,0.0,
+2000,Papua New Guinea,Oceania,,,0.0
+2000,Philippines,Asia,0.0,0.0,1846.5
+2000,Poland,Europe,0.004,0.0,
+2000,Portugal,Europe,0.083,0.001,14.0
+2000,Romania,Europe,0.0,0.0,
+2000,Russia,Europe,0.003,0.0,23.0
+2000,Slovakia,Europe,,0.0,
+2000,South & Central America,South America,,,360.8
+2000,South Africa,Africa,0.0,0.0,
+2000,South America,South America,0.036262,2.5e-05,
+2000,South Korea,Asia,0.007,0.004,
+2000,Spain,Europe,2.206,0.01,
+2000,Sweden,Europe,0.209,0.003,
+2000,Switzerland,Europe,,0.016,
+2000,Taiwan,Asia,0.0026,0.0001,
+2000,Thailand,Asia,0.0,0.0,
+2000,Tunisia,Africa,0.01065,,
+2000,Turkey,Europe,0.019,0.0001,18.0
+2000,Ukraine,Europe,0.005,0.0,
+2000,United Kingdom,Europe,0.412,0.002,
+2000,United States,North America,2.377,0.176,2793.0
+2000,Uruguay,South America,0.00015,,
+2000,Vietnam,Asia,,2e-06,
+2000,World,World,16.932482,0.808669,8235.8
+2001,Africa,Africa,0.13905,0.013028999,65.3
+2001,Algeria,Africa,,0.0,
+2001,Argentina,South America,0.024829,2.6e-05,
+2001,Asia,Asia,2.176557,0.50622998,
+2001,Australia,Oceania,0.076,0.029,
+2001,Austria,Europe,0.067,0.007,
+2001,Belgium,Europe,0.026,0.0,
+2001,Brazil,South America,0.024,3.6e-05,
+2001,Bulgaria,Europe,0.0,0.0,
+2001,Canada,North America,0.131,0.009,
+2001,Chile,South America,0.002,0.0,0.0
+2001,China,Asia,0.383,0.03802,21.7
+2001,Costa Rica,North America,0.0623,,145.0
+2001,Croatia,Europe,,,0.0
+2001,Czechia,Europe,,0.0001,
+2001,Denmark,Europe,2.497153,0.001,
+2001,Egypt,Africa,0.074,0.0005,
+2001,El Salvador,North America,,,161.2
+2001,Ethiopia,Africa,,,7.3
+2001,Europe,Europe,17.395334,0.30036002,807.0
+2001,Finland,Europe,0.039,,
+2001,France,Europe,0.066,0.007,0.0
+2001,Germany,Europe,8.754,0.195,0.0
+2001,Greece,Europe,0.27,0.001,
+2001,Guatemala,North America,,,29.0
+2001,Honduras,North America,,0.001804,0.0
+2001,Hungary,Europe,,0.0,
+2001,Iceland,Europe,,,202.0
+2001,India,Asia,1.563,0.005535,
+2001,Indonesia,Asia,,,785.0
+2001,Iran,Asia,0.011,,
+2001,Ireland,Europe,0.1229,,
+2001,Israel,Asia,,0.0,
+2001,Italy,Europe,0.664,0.02,573.0
+2001,Japan,Asia,0.175,0.453,533.0
+2001,Jordan,Asia,0.0014,1.5e-05,
+2001,Kenya,Africa,,,58.0
+2001,Malaysia,Asia,,0.0,
+2001,Mexico,North America,0.017,0.015,838.0
+2001,Morocco,Africa,0.054,0.007,
+2001,Netherlands,Europe,0.486,0.021,
+2001,New Zealand,Oceania,0.036,,417.0
+2001,Nicaragua,North America,,,26.0
+2001,North America,North America,4.0743,0.238804,3054.0
+2001,Norway,Europe,0.013,,
+2001,Oceania,Oceania,0.112,0.029,
+2001,Other South & Central America,South America,,,4.600000000000023
+2001,Pakistan,Asia,0.0,0.0,
+2001,Papua New Guinea,Oceania,,,0.0
+2001,Philippines,Asia,0.0,0.0,1846.5
+2001,Poland,Europe,0.019,0.0,
+2001,Portugal,Europe,0.125,0.001,14.0
+2001,Romania,Europe,0.0,0.0,
+2001,Russia,Europe,0.003,0.0,21.0
+2001,Slovakia,Europe,,0.0,
+2001,South & Central America,South America,,,365.8
+2001,South Africa,Africa,0.0,0.0,
+2001,South America,South America,0.050979,6.2e-05,
+2001,South Korea,Asia,0.011,0.005,
+2001,Spain,Europe,3.397,0.013,
+2001,Sweden,Europe,0.295,0.003,
+2001,Switzerland,Europe,,0.018,
+2001,Taiwan,Asia,0.005,0.0002,
+2001,Thailand,Asia,0.0,0.0,
+2001,Tunisia,Africa,0.01065,,
+2001,Turkey,Europe,0.019,0.0003,18.0
+2001,Ukraine,Europe,0.03623,0.0,
+2001,United Kingdom,Europe,0.493,0.003,
+2001,United States,North America,3.864,0.213,2216.0
+2001,Uruguay,South America,0.00015,,
+2001,Vietnam,Asia,,0.000108,
+2001,World,World,23.968965,1.0929860000000002,7916.8
+2002,Africa,Africa,0.14431,0.015243,65.3
+2002,Algeria,Africa,,0.0,
+2002,Argentina,South America,0.0257979999999999,2.6e-05,
+2002,Asia,Asia,2.402797,0.712151,
+2002,Australia,Oceania,0.106,0.034,
+2002,Austria,Europe,0.109,0.009,
+2002,Belgium,Europe,0.031,0.001,
+2002,Brazil,South America,0.022,3.6e-05,
+2002,Bulgaria,Europe,0.0,0.0,
+2002,Canada,North America,0.161,0.01,
+2002,Chile,South America,0.002,0.0,0.0
+2002,China,Asia,0.449,0.05653,21.7
+2002,Costa Rica,North America,0.0623,,144.7
+2002,Croatia,Europe,,,0.0
+2002,Czechia,Europe,,0.0002,
+2002,Denmark,Europe,2.894531,0.002,
+2002,Egypt,Africa,0.074,0.0006,
+2002,El Salvador,North America,,,161.2
+2002,Ethiopia,Africa,,,7.3
+2002,Europe,Europe,23.294012,0.38499402,902.0
+2002,Finland,Europe,0.043,,
+2002,France,Europe,0.138,0.008,0.0
+2002,Germany,Europe,12.001,0.26,0.0
+2002,Greece,Europe,0.287,0.001,
+2002,Guatemala,North America,,,29.0
+2002,Honduras,North America,,0.001975,0.0
+2002,Hungary,Europe,,0.0,
+2002,Iceland,Europe,,,202.0
+2002,India,Asia,1.606,0.006705,
+2002,Indonesia,Asia,,,785.0
+2002,Iran,Asia,0.012,,
+2002,Ireland,Europe,0.1348,,
+2002,Israel,Asia,,0.0,
+2002,Italy,Europe,0.78,0.022,666.0
+2002,Japan,Asia,0.277,0.637,533.0
+2002,Jordan,Asia,0.0014,1.5e-05,
+2002,Kenya,Africa,,,58.0
+2002,Malaysia,Asia,,0.0,
+2002,Mexico,North America,0.018,0.016,843.0
+2002,Morocco,Africa,0.054,0.0077,
+2002,Netherlands,Europe,0.672,0.026,
+2002,New Zealand,Oceania,0.054,,373.0
+2002,Nicaragua,North America,,,77.5
+2002,North America,North America,4.6583000000000006,0.282975,3095.0
+2002,Norway,Europe,0.097,,
+2002,Oceania,Oceania,0.16,0.034,
+2002,Other South & Central America,South America,,,4.600000000000023
+2002,Pakistan,Asia,0.0,0.0,
+2002,Papua New Guinea,Oceania,,,0.0
+2002,Philippines,Asia,0.0,0.0,1846.5
+2002,Poland,Europe,0.032,0.0,
+2002,Portugal,Europe,0.19,0.001,14.0
+2002,Romania,Europe,0.0,0.0,
+2002,Russia,Europe,0.007,0.0,70.0
+2002,Slovakia,Europe,,0.0,
+2002,South & Central America,South America,,,417.0
+2002,South Africa,Africa,0.00316,0.0,
+2002,South America,South America,0.049948,6.2e-05,
+2002,South Korea,Asia,0.013,0.005,
+2002,Spain,Europe,4.891,0.017,
+2002,Sweden,Europe,0.357,0.003,
+2002,Switzerland,Europe,,0.02,
+2002,Taiwan,Asia,0.0085399999999999,0.00033,
+2002,Thailand,Asia,0.0,0.0,
+2002,Tunisia,Africa,0.01065,,
+2002,Turkey,Europe,0.019,0.0006,18.0
+2002,Ukraine,Europe,0.04623,0.0,
+2002,United Kingdom,Europe,0.534,0.004,
+2002,United States,North America,4.417,0.255,2252.0
+2002,Uruguay,South America,0.00015,,
+2002,Vietnam,Asia,,0.000236,
+2002,World,World,30.733412,1.437059,8109.0
+2003,Africa,Africa,0.15361,0.018019001,65.3
+2003,Algeria,Africa,,0.0,
+2003,Argentina,South America,0.025729,2.6e-05,
+2003,Asia,Asia,3.601465,0.95082,
+2003,Australia,Oceania,0.19,0.039,
+2003,Austria,Europe,0.322,0.023,
+2003,Belgium,Europe,0.067,0.001,
+2003,Brazil,South America,0.024,0.000716,
+2003,Bulgaria,Europe,0.0,0.0,
+2003,Canada,North America,0.327,0.012,
+2003,Chile,South America,0.002,0.0,0.0
+2003,China,Asia,0.547,0.0665999999999999,21.7
+2003,Costa Rica,North America,0.0686,,162.7
+2003,Croatia,Europe,,,0.0
+2003,Czechia,Europe,,0.0003,
+2003,Denmark,Europe,3.1199160000000004,0.002,
+2003,Egypt,Africa,0.074,0.0006,
+2003,El Salvador,North America,,,161.2
+2003,Ethiopia,Africa,,,7.3
+2003,Europe,Europe,28.160846000000003,0.623771,940.0
+2003,Finland,Europe,0.052,,
+2003,France,Europe,0.218,0.009,0.0
+2003,Germany,Europe,14.381,0.435,0.0
+2003,Greece,Europe,0.371,0.001,
+2003,Guatemala,North America,,,29.0
+2003,Honduras,North America,,0.002128,0.0
+2003,Hungary,Europe,,0.0,
+2003,Iceland,Europe,,,202.0
+2003,India,Asia,2.461,0.007885,
+2003,Indonesia,Asia,,,805.0
+2003,Iran,Asia,0.016,,
+2003,Ireland,Europe,0.2103,,
+2003,Israel,Asia,,0.0,
+2003,Italy,Europe,0.874,0.026,707.0
+2003,Japan,Asia,0.508,0.86,535.0
+2003,Jordan,Asia,0.0014,1.5e-05,
+2003,Kenya,Africa,,,58.0
+2003,Malaysia,Asia,,0.0,
+2003,Mexico,North America,0.018,0.016,960.0
+2003,Morocco,Africa,0.054,0.0084,
+2003,Netherlands,Europe,0.905,0.046,
+2003,New Zealand,Oceania,0.072,,378.0
+2003,Nicaragua,North America,,,77.5
+2003,North America,North America,6.408600000000001,0.3231279999999999,3093.0
+2003,Norway,Europe,0.097,,
+2003,Oceania,Oceania,0.262,0.039,
+2003,Other South & Central America,South America,,,4.600000000000023
+2003,Pakistan,Asia,0.0,0.0,
+2003,Papua New Guinea,Oceania,,,6.0
+2003,Philippines,Asia,0.0,0.0,1846.5
+2003,Poland,Europe,0.035,0.0,
+2003,Portugal,Europe,0.268,0.002,14.0
+2003,Romania,Europe,0.0,0.0,
+2003,Russia,Europe,0.009,0.0,70.0
+2003,Slovakia,Europe,,0.0,
+2003,South & Central America,South America,,,435.0
+2003,South Africa,Africa,0.00316,0.0,
+2003,South America,South America,0.051879,0.00074200004,
+2003,South Korea,Asia,0.019,0.006,
+2003,Spain,Europe,5.945,0.022,
+2003,Sweden,Europe,0.417,0.004,
+2003,Switzerland,Europe,,0.022,
+2003,Taiwan,Asia,0.0085399999999999,0.00045,
+2003,Thailand,Asia,0.0,0.0,
+2003,Tunisia,Africa,0.01937,,
+2003,Turkey,Europe,0.019,0.001,15.0
+2003,Ukraine,Europe,0.0544,0.0,
+2003,United Kingdom,Europe,0.742,0.006,
+2003,United States,North America,5.995,0.293,2133.0
+2003,Uruguay,South America,0.00015,,
+2003,Vietnam,Asia,,0.000406,
+2003,World,World,38.670547,1.96503,8195.9
+2004,Africa,Africa,0.23613,0.0219959999999999,135.3
+2004,Algeria,Africa,,0.0,
+2004,Argentina,South America,0.027829,2.6e-05,
+2004,Asia,Asia,5.46147,1.241006,
+2004,Australia,Oceania,0.379,0.046,
+2004,Austria,Europe,0.581,0.027,
+2004,Belgium,Europe,0.096,0.001,
+2004,Brazil,South America,0.024,0.000718,
+2004,Bulgaria,Europe,0.001,0.0,
+2004,Canada,North America,0.444,0.014,
+2004,Chile,South America,0.002,0.0,0.0
+2004,China,Asia,0.763,0.0766,21.7
+2004,Costa Rica,North America,0.0686,,165.7
+2004,Croatia,Europe,,,0.0
+2004,Czechia,Europe,,0.0004,
+2004,Denmark,Europe,3.1237120000000003,0.002,
+2004,Egypt,Africa,0.15,0.0006,
+2004,El Salvador,North America,,,151.2
+2004,Ethiopia,Africa,,,7.3
+2004,Europe,Europe,34.328266000000006,1.335364,875.2
+2004,Finland,Europe,0.082,,
+2004,France,Europe,0.358,0.011,0.0
+2004,Germany,Europe,16.419,1.105,0.2
+2004,Greece,Europe,0.47,0.001,
+2004,Guatemala,North America,,,29.0
+2004,Honduras,North America,,0.002376,0.0
+2004,Hungary,Europe,,0.0,
+2004,Iceland,Europe,,,202.0
+2004,India,Asia,3.813,0.00781,
+2004,Indonesia,Asia,,,820.0
+2004,Iran,Asia,0.0249,,
+2004,Ireland,Europe,0.3364,,
+2004,Israel,Asia,,0.0,
+2004,Italy,Europe,1.127,0.031,642.0
+2004,Japan,Asia,0.769,1.132,535.0
+2004,Jordan,Asia,0.0014,1.5e-05,
+2004,Kenya,Africa,,,128.0
+2004,Malaysia,Asia,,0.0,
+2004,Mexico,North America,0.018,0.016,960.0
+2004,Morocco,Africa,0.054,0.0091,
+2004,Netherlands,Europe,1.075,0.05,
+2004,New Zealand,Oceania,0.166,,378.0
+2004,Nicaragua,North America,,,77.5
+2004,North America,North America,6.9866,0.395376,3112.0
+2004,Norway,Europe,0.152,,
+2004,Oceania,Oceania,0.545,0.046,
+2004,Other South & Central America,South America,,,4.600000000000023
+2004,Pakistan,Asia,0.0,0.0,
+2004,Papua New Guinea,Oceania,,,6.0
+2004,Philippines,Asia,0.0,0.002,1846.5
+2004,Poland,Europe,0.04,0.0,
+2004,Portugal,Europe,0.553,0.002,14.0
+2004,Romania,Europe,0.0,0.0,
+2004,Russia,Europe,0.009,0.0,56.0
+2004,Slovakia,Europe,,0.0,
+2004,South & Central America,South America,,,428.0
+2004,South Africa,Africa,0.00316,0.0,
+2004,South America,South America,0.053979,0.000744,
+2004,South Korea,Asia,0.029,0.009,
+2004,Spain,Europe,8.317,0.033,
+2004,Sweden,Europe,0.475,0.004,
+2004,Switzerland,Europe,,0.024,
+2004,Taiwan,Asia,0.0085399999999999,0.00057,
+2004,Thailand,Asia,0.0,0.0,
+2004,Tunisia,Africa,0.01937,,
+2004,Turkey,Europe,0.019,0.0015,15.0
+2004,Ukraine,Europe,0.0714,0.0,
+2004,United Kingdom,Europe,0.933,0.008,
+2004,United States,North America,6.456,0.363,2152.0
+2004,Uruguay,South America,0.00015,,
+2004,Vietnam,Asia,,0.000747,
+2004,World,World,47.68539,3.051979,8214.1
+2005,Africa,Africa,0.2402,0.025965,135.3
+2005,Algeria,Africa,,0.0,
+2005,Argentina,South America,0.027829,2.6e-05,
+2005,Asia,Asia,6.972510000000001,1.6106339,
+2005,Australia,Oceania,0.74,0.052,
+2005,Austria,Europe,0.825219,0.021018,
+2005,Belgium,Europe,0.167,0.002,
+2005,Brazil,South America,0.029,0.000718,
+2005,Bulgaria,Europe,0.008,0.0,
+2005,Canada,North America,0.677,0.018,
+2005,Chile,South America,0.002,0.0,0.0
+2005,China,Asia,1.06,0.1412,21.7
+2005,Costa Rica,North America,0.0686,,165.7
+2005,Croatia,Europe,,,0.0
+2005,Czechia,Europe,,0.0005859999999999,
+2005,Denmark,Europe,3.127836,0.003,
+2005,Egypt,Africa,0.15,0.0006,
+2005,El Salvador,North America,,,151.2
+2005,Ethiopia,Africa,,,7.3
+2005,Europe,Europe,40.69319,2.315507,933.1
+2005,Finland,Europe,0.082,,
+2005,France,Europe,0.6900000000000001,0.013,0.0
+2005,Germany,Europe,18.248,2.056,0.2
+2005,Greece,Europe,0.491,0.001,
+2005,Guatemala,North America,,,29.0
+2005,Honduras,North America,,0.002668,0.0
+2005,Hungary,Europe,,0.0,
+2005,Iceland,Europe,,,232.0
+2005,India,Asia,4.4339,0.011567,
+2005,Indonesia,Asia,,,850.0
+2005,Iran,Asia,0.037,,
+2005,Ireland,Europe,0.4933,,
+2005,Israel,Asia,,0.001,
+2005,Italy,Europe,1.635,0.034,671.0
+2005,Japan,Asia,1.227,1.422,535.0
+2005,Jordan,Asia,0.0014,1.5e-05,
+2005,Kenya,Africa,,,128.0
+2005,Malaysia,Asia,,0.0,
+2005,Mexico,North America,0.018,0.016,960.0
+2005,Morocco,Africa,0.054,0.01,
+2005,Netherlands,Europe,1.224,0.051,
+2005,New Zealand,Oceania,0.168,,433.0
+2005,Nicaragua,North America,,,87.5
+2005,North America,North America,9.4696,0.52966797,3245.0
+2005,Norway,Europe,0.265,,
+2005,Oceania,Oceania,0.908,0.052,
+2005,Other South & Central America,South America,,,15.600000000000025
+2005,Pakistan,Asia,0.0,0.0,
+2005,Papua New Guinea,Oceania,,,36.0
+2005,Philippines,Asia,0.033,0.00202,1846.5
+2005,Poland,Europe,0.121,0.0,
+2005,Portugal,Europe,1.064,0.002,14.0
+2005,Romania,Europe,0.001,0.0,
+2005,Russia,Europe,0.01,0.0,79.0
+2005,Slovakia,Europe,,0.0,
+2005,South & Central America,South America,,,449.0
+2005,South Africa,Africa,0.00316,0.0,
+2005,South America,South America,0.058979,0.000744,
+2005,South Korea,Asia,0.099,0.014,
+2005,Spain,Europe,9.918,0.052,
+2005,Sweden,Europe,0.522,0.004,
+2005,Switzerland,Europe,,0.028,
+2005,Taiwan,Asia,0.02394,0.00104,
+2005,Thailand,Asia,0.0,0.0,
+2005,Tunisia,Africa,0.01937,,
+2005,Turkey,Europe,0.021,0.002,15.0
+2005,Ukraine,Europe,0.0766,0.0,
+2005,United Kingdom,Europe,1.565,0.011,
+2005,United States,North America,8.706,0.493,2285.0
+2005,Uruguay,South America,0.00015,,
+2005,Vietnam,Asia,,0.001885,
+2005,World,World,58.408125,4.548119,8564.1
+2006,Africa,Africa,0.327925,0.034268,135.3
+2006,Algeria,Africa,,0.0,
+2006,Argentina,South America,0.027829,2.6e-05,
+2006,Asia,Asia,10.653403,1.972485,
+2006,Australia,Oceania,0.8190000000000001,0.061,
+2006,Austria,Europe,0.968269,0.022387,
+2006,Belgium,Europe,0.212,0.002,
+2006,Brazil,South America,0.237,0.000718,
+2006,Bulgaria,Europe,0.027,0.0,
+2006,Canada,North America,1.423,0.022,
+2006,Chile,South America,0.002,0.0,0.0
+2006,China,Asia,2.07,0.1601999999999999,21.7
+2006,Costa Rica,North America,0.0686,,165.7
+2006,Croatia,Europe,,,0.0
+2006,Czechia,Europe,,0.000841,
+2006,Denmark,Europe,3.135696,0.003,
+2006,Egypt,Africa,0.235,0.0006,
+2006,El Salvador,North America,,,151.2
+2006,Ethiopia,Africa,,,7.3
+2006,Europe,Europe,47.927800000000005,3.266667,1142.1
+2006,Finland,Europe,0.086,,
+2006,France,Europe,1.412,0.015,0.0
+2006,Germany,Europe,20.474,2.899,0.2
+2006,Greece,Europe,0.749,0.005,
+2006,Guatemala,North America,,,54.2
+2006,Honduras,North America,,0.002872,0.0
+2006,Hungary,Europe,,0.0,
+2006,Iceland,Europe,,,422.0
+2006,India,Asia,6.315,0.009603,
+2006,Indonesia,Asia,,,850.0
+2006,Iran,Asia,0.047,,
+2006,Ireland,Europe,0.6765,,
+2006,Israel,Asia,,0.0013,
+2006,Italy,Europe,1.902,0.045,671.0
+2006,Japan,Asia,1.805,1.708,532.0
+2006,Jordan,Asia,0.0014,1.5e-05,
+2006,Kenya,Africa,,,128.0
+2006,Malaysia,Asia,,0.0,
+2006,Mexico,North America,0.101,0.016,960.0
+2006,Morocco,Africa,0.054,0.0108,
+2006,Netherlands,Europe,1.561,0.053,
+2006,New Zealand,Oceania,0.169,,433.0
+2006,Nicaragua,North America,,,87.5
+2006,North America,North America,12.9216,0.738872,3234.0
+2006,Norway,Europe,0.284,,
+2006,Oceania,Oceania,0.988,0.061,
+2006,Other South & Central America,South America,,,15.60000000000008
+2006,Pakistan,Asia,0.0,0.0,
+2006,Papua New Guinea,Oceania,,,36.0
+2006,Philippines,Asia,0.033,0.00202,1846.5
+2006,Poland,Europe,0.172,0.0,
+2006,Portugal,Europe,1.681,0.003,25.0
+2006,Romania,Europe,0.001,0.0,
+2006,Russia,Europe,0.01,0.0,87.0
+2006,Slovakia,Europe,,0.0,
+2006,South & Central America,South America,,,474.2000000000001
+2006,South Africa,Africa,0.00316,0.0,
+2006,South America,South America,0.2669789999999999,0.000744,
+2006,South Korea,Asia,0.178,0.036,
+2006,Spain,Europe,11.722,0.13,
+2006,Sweden,Europe,0.585,0.005,
+2006,Switzerland,Europe,,0.03,
+2006,Taiwan,Asia,0.10199,0.00141,
+2006,Thailand,Asia,0.00034,0.03041,
+2006,Tunisia,Africa,0.01937,,
+2006,Turkey,Europe,0.059,0.0025,23.0
+2006,Ukraine,Europe,0.0766,0.0,
+2006,United Kingdom,Europe,1.955,0.014,
+2006,United States,North America,11.329,0.6980000000000001,2274.0
+2006,Uruguay,South America,0.00015,,
+2006,Vietnam,Asia,,0.003424,
+2006,World,World,73.16167,6.093193,8792.2
+2007,Africa,Africa,0.47012,0.046656002,135.3
+2007,Algeria,Africa,,0.0,
+2007,Argentina,South America,0.027829,2.6e-05,
+2007,Asia,Asia,14.256196,2.298976,
+2007,Australia,Oceania,1.249,0.07,
+2007,Austria,Europe,0.991159,0.024238,
+2007,Belgium,Europe,0.276,0.02,
+2007,Brazil,South America,0.247,0.000718,
+2007,Bulgaria,Europe,0.03,3e-05,
+2007,Canada,North America,1.84,0.029,
+2007,Chile,South America,0.02,0.0,0.0
+2007,China,Asia,4.2,0.199,21.7
+2007,Costa Rica,North America,0.066,,165.7
+2007,Croatia,Europe,,,0.0
+2007,Czechia,Europe,,0.003961,
+2007,Denmark,Europe,3.124214,0.003,
+2007,Egypt,Africa,0.315,0.0007,
+2007,El Salvador,North America,,,204.4
+2007,Ethiopia,Africa,,,7.3
+2007,Europe,Europe,56.34890600000001,5.039852,1207.9
+2007,Finland,Europe,0.11,,
+2007,France,Europe,2.223,0.026,0.0
+2007,Germany,Europe,22.116,4.17,3.0
+2007,Greece,Europe,0.846,0.009,
+2007,Guatemala,North America,,,54.2
+2007,Honduras,North America,,0.003228,0.0
+2007,Hungary,Europe,,0.0004,
+2007,Iceland,Europe,,,485.0
+2007,India,Asia,7.84452,0.025099,
+2007,Indonesia,Asia,,,980.0
+2007,Iran,Asia,0.063,,
+2007,Ireland,Europe,0.7405,,
+2007,Israel,Asia,,0.0018,
+2007,Italy,Europe,2.702,0.11,671.0
+2007,Japan,Asia,1.527,1.919,532.0
+2007,Jordan,Asia,0.0014,1.5e-05,
+2007,Kenya,Africa,,,128.0
+2007,Malaysia,Asia,,0.00045,
+2007,Mexico,North America,0.101,0.019,960.0
+2007,Morocco,Africa,0.114,0.011945,
+2007,Netherlands,Europe,1.749,0.054,
+2007,New Zealand,Oceania,0.32,,451.0
+2007,Nicaragua,North America,,,87.5
+2007,North America,North America,18.522,1.025228,3174.0
+2007,Norway,Europe,0.348,,
+2007,Oceania,Oceania,1.569,0.07,
+2007,Other South & Central America,South America,,,15.599999999999966
+2007,Pakistan,Asia,0.0,0.00014,
+2007,Papua New Guinea,Oceania,,,56.0
+2007,Philippines,Asia,0.033,0.00202,1846.5
+2007,Poland,Europe,0.306,0.0,
+2007,Portugal,Europe,2.201,0.024,25.0
+2007,Romania,Europe,0.003,0.0,
+2007,Russia,Europe,0.01,0.0,90.0
+2007,Slovakia,Europe,,0.0,
+2007,South & Central America,South America,,,527.4
+2007,South Africa,Africa,0.00316,0.0,
+2007,South America,South America,0.294979,0.000744,
+2007,South Korea,Asia,0.196,0.081,
+2007,Spain,Europe,14.82,0.494,
+2007,Sweden,Europe,0.8230000000000001,0.006,
+2007,Switzerland,Europe,,0.037,
+2007,Taiwan,Asia,0.18599,0.00244,
+2007,Thailand,Asia,0.00094,0.03225,
+2007,Tunisia,Africa,0.01937,,
+2007,Turkey,Europe,0.146,0.003,23.0
+2007,Ukraine,Europe,0.082,0.0,
+2007,United Kingdom,Europe,2.477,0.018,
+2007,United States,North America,16.515,0.974,2214.0
+2007,Uruguay,South America,0.00015,,
+2007,Vietnam,Asia,,0.003424,
+2007,World,World,91.55306,8.506466,9022.2
+2008,Africa,Africa,0.55532,0.063372997,135.3
+2008,Algeria,Africa,,0.0,
+2008,Argentina,South America,0.027829,2.6e-05,
+2008,Asia,Asia,21.47542,2.878011,
+2008,Australia,Oceania,1.441,0.082,
+2008,Austria,Europe,0.991974,0.03012,
+2008,Belgium,Europe,0.324,0.062,
+2008,Brazil,South America,0.398,0.000764,
+2008,Bulgaria,Europe,0.114,0.0001,
+2008,Canada,North America,2.336,0.038,
+2008,Chile,South America,0.02,0.0,0.0
+2008,China,Asia,8.387728,0.253,24.8
+2008,Costa Rica,North America,0.066,,165.7
+2008,Croatia,Europe,,,0.0
+2008,Czechia,Europe,,0.0395,
+2008,Denmark,Europe,3.16287,0.003,
+2008,Egypt,Africa,0.395,0.0009,
+2008,El Salvador,North America,,,204.4
+2008,Ethiopia,Africa,,,7.3
+2008,Europe,Europe,64.063395,10.45816,1304.9
+2008,Finland,Europe,0.143,,
+2008,France,Europe,3.403,0.08,0.0
+2008,Germany,Europe,22.794,6.12,3.0
+2008,Greece,Europe,1.022,0.012,
+2008,Guatemala,North America,,,54.2
+2008,Honduras,North America,,0.003228,0.0
+2008,Hungary,Europe,,0.001,
+2008,Iceland,Europe,,,575.0
+2008,India,Asia,10.2425,0.027723,
+2008,Indonesia,Asia,,,1052.0
+2008,Iran,Asia,0.063,,
+2008,Ireland,Europe,0.9423,,
+2008,Israel,Asia,,0.003,
+2008,Italy,Europe,3.525,0.483,671.0
+2008,Japan,Asia,1.756,2.144,532.0
+2008,Jordan,Asia,0.0014,1.5e-05,
+2008,Kenya,Africa,,,128.0
+2008,Malaysia,Asia,,0.00054,
+2008,Mexico,North America,0.101,0.019,963.0
+2008,Morocco,Africa,0.114,0.012845,
+2008,Netherlands,Europe,2.149,0.059,
+2008,New Zealand,Oceania,0.322,,593.0
+2008,Nicaragua,North America,,,87.5
+2008,North America,North America,27.154,1.2132280000000002,3192.0
+2008,Norway,Europe,0.395,,
+2008,Oceania,Oceania,1.763,0.082,
+2008,Other South & Central America,South America,,,15.599999999999966
+2008,Pakistan,Asia,0.006,0.00114,
+2008,Papua New Guinea,Oceania,,,56.0
+2008,Philippines,Asia,0.033,0.00202,1846.5
+2008,Poland,Europe,0.526,0.0,
+2008,Portugal,Europe,2.857,0.059,25.0
+2008,Romania,Europe,0.005,0.0001,
+2008,Russia,Europe,0.01,0.0,80.0
+2008,Slovakia,Europe,,0.0,
+2008,South & Central America,South America,,,527.4
+2008,South Africa,Africa,0.00836,0.0,
+2008,South America,South America,0.4604290199999999,0.00079,
+2008,South Korea,Asia,0.304,0.357,
+2008,Spain,Europe,16.555,3.384,
+2008,Sweden,Europe,1.089,0.008,
+2008,Switzerland,Europe,,0.049,
+2008,Taiwan,Asia,0.25039,0.00558,
+2008,Thailand,Asia,0.00108,0.03235,
+2008,Tunisia,Africa,0.01937,,
+2008,Turkey,Europe,0.364,0.0037,30.0
+2008,Ukraine,Europe,0.083,0.0,
+2008,United Kingdom,Europe,3.446,0.023,
+2008,United States,North America,24.651,1.153,2229.0
+2008,Uruguay,South America,0.0146,,
+2008,Vietnam,Asia,,0.003424,
+2008,World,World,115.56529,14.729541,9344.3
+2009,Africa,Africa,0.74237,0.106845,170.3
+2009,Algeria,Africa,,0.0,
+2009,Argentina,South America,0.027829,2.6e-05,
+2009,Asia,Asia,32.258021,3.7645862,
+2009,Australia,Oceania,1.703,0.329,
+2009,Austria,Europe,1.000985,0.048915,
+2009,Belgium,Europe,0.608,0.386,
+2009,Brazil,South America,0.602,0.0008139999999999,
+2009,Bulgaria,Europe,0.333,0.002,
+2009,Canada,North America,3.282,0.107,
+2009,Chile,South America,0.163,0.0,0.0
+2009,China,Asia,17.599408,0.4148,24.8
+2009,Costa Rica,North America,0.1155,,165.7
+2009,Croatia,Europe,,,0.0
+2009,Czechia,Europe,,0.4646,
+2009,Denmark,Europe,3.482087,0.005,
+2009,Egypt,Africa,0.44,0.0013,
+2009,El Salvador,North America,,,204.4
+2009,Ethiopia,Africa,,,7.3
+2009,Europe,Europe,75.81564,16.835742,1380.9
+2009,Finland,Europe,0.147,,
+2009,France,Europe,4.582,0.277,0.0
+2009,Germany,Europe,25.732,10.564,8.0
+2009,Greece,Europe,1.171,0.046,
+2009,Guatemala,North America,,,54.2
+2009,Honduras,North America,,0.003512,0.0
+2009,Hungary,Europe,,0.001,
+2009,Iceland,Europe,,,575.0
+2009,India,Asia,10.925,0.039362,
+2009,Indonesia,Asia,,,1189.0
+2009,Iran,Asia,0.092,,
+2009,Ireland,Europe,1.2513,,
+2009,Israel,Asia,,0.0245,
+2009,Italy,Europe,4.879,1.264,695.0
+2009,Japan,Asia,1.997,2.627,535.0
+2009,Jordan,Asia,0.0014,1.5e-05,
+2009,Kenya,Africa,,,163.0
+2009,Malaysia,Asia,,0.00054,
+2009,Mexico,North America,0.425,0.0251,965.0
+2009,Morocco,Africa,0.221,0.013445,
+2009,Netherlands,Europe,2.222,0.069,
+2009,New Zealand,Oceania,0.496,,633.0
+2009,Nicaragua,North America,,,87.5
+2009,North America,North America,38.1185,1.7496120000000002,3347.0
+2009,Norway,Europe,0.423,,
+2009,Oceania,Oceania,2.199,0.329,
+2009,Other South & Central America,South America,,,14.999999999999943
+2009,Pakistan,Asia,0.006,0.00667,
+2009,Papua New Guinea,Oceania,,,56.0
+2009,Philippines,Asia,0.033,0.00202,1846.5
+2009,Poland,Europe,0.709,0.0,
+2009,Portugal,Europe,3.326,0.115,25.0
+2009,Romania,Europe,0.015,0.0001,
+2009,Russia,Europe,0.01,0.0,81.0
+2009,Slovakia,Europe,,0.0,
+2009,South & Central America,South America,,,526.8
+2009,South Africa,Africa,0.00836,0.0,
+2009,South America,South America,0.82342896,0.00084000003,
+2009,South Korea,Asia,0.351,0.524,
+2009,Spain,Europe,19.176,3.423,
+2009,Sweden,Europe,1.475,0.009,
+2009,Switzerland,Europe,,0.079,
+2009,Taiwan,Asia,0.37429,0.00951,
+2009,Thailand,Asia,0.0050999999999999,0.037,
+2009,Tunisia,Africa,0.05369,,
+2009,Turkey,Europe,0.792,0.0047,77.0
+2009,Ukraine,Europe,0.086,0.0,
+2009,United Kingdom,Europe,4.422,0.027,
+2009,United States,North America,34.296,1.614,2382.0
+2009,Uruguay,South America,0.0306,,
+2009,Vietnam,Asia,,0.003515,
+2009,World,World,150.12058,22.844467,9790.7
+2010,Africa,Africa,0.864797,0.193842,205.3
+2010,Algeria,Africa,,0.0,
+2010,Argentina,South America,0.027829,2.6e-05,
+2010,Asia,Asia,47.56460500000001,5.629264,
+2010,Australia,Oceania,1.864,1.088,
+2010,Austria,Europe,1.015828,0.088813,
+2010,Belgium,Europe,0.912,1.0066,
+2010,Brazil,South America,0.927,0.000854,
+2010,Bulgaria,Europe,0.488,0.025,
+2010,Canada,North America,3.967,0.249,
+2010,Chile,South America,0.163,0.0,0.0
+2010,China,Asia,29.633479,1.0218,24.1
+2010,Costa Rica,North America,0.1155,,165.7
+2010,Croatia,Europe,,,0.0
+2010,Czechia,Europe,,1.727,
+2010,Denmark,Europe,3.801829,0.007,
+2010,Egypt,Africa,0.555,0.015,
+2010,El Salvador,North America,,,204.4
+2010,Ethiopia,Africa,,,7.3
+2010,Europe,Europe,84.92835000000001,30.119166000000003,1430.9
+2010,Finland,Europe,0.197,,
+2010,France,Europe,5.912,1.044,0.0
+2010,Germany,Europe,26.903,18.004,8.0
+2010,Greece,Europe,1.298,0.202,
+2010,Guatemala,North America,,,54.2
+2010,Honduras,North America,,0.003728,0.0
+2010,Hungary,Europe,,0.002,
+2010,Iceland,Europe,,,575.0
+2010,India,Asia,13.184,0.0653619999999999,
+2010,Indonesia,Asia,,,1189.0
+2010,Iran,Asia,0.095,,
+2010,Ireland,Europe,1.3904,,
+2010,Israel,Asia,,0.0699,
+2010,Italy,Europe,5.7940000000000005,3.592,728.0
+2010,Japan,Asia,2.294,3.618,537.0
+2010,Jordan,Asia,0.0014,1.5e-05,
+2010,Kenya,Africa,,,198.0
+2010,Malaysia,Asia,,0.000544,
+2010,Mexico,North America,0.519,0.0298,965.0
+2010,Morocco,Africa,0.221,0.013545,
+2010,Netherlands,Europe,2.237,0.09,
+2010,New Zealand,Oceania,0.524,,731.0
+2010,Nicaragua,North America,,,87.5
+2010,North America,North America,43.7365,3.191528,3370.0
+2010,Norway,Europe,0.425,,
+2010,Oceania,Oceania,2.388,1.088,
+2010,Other South & Central America,South America,,,14.999999999999943
+2010,Pakistan,Asia,0.006,0.009275,
+2010,Papua New Guinea,Oceania,,,56.0
+2010,Philippines,Asia,0.033,0.00202,1846.5
+2010,Poland,Europe,1.108,0.0,
+2010,Portugal,Europe,3.796,0.134,25.0
+2010,Romania,Europe,0.389,0.0001,
+2010,Russia,Europe,0.01,1e-05,81.0
+2010,Slovakia,Europe,,0.019,
+2010,South & Central America,South America,,,526.8
+2010,South Africa,Africa,0.01016,0.001959,
+2010,South America,South America,1.1584290000000002,0.00088,
+2010,South Korea,Asia,0.382,0.65,
+2010,Spain,Europe,20.693,3.873,
+2010,Sweden,Europe,2.017,0.011,
+2010,Switzerland,Europe,,0.125,
+2010,Taiwan,Asia,0.47589,0.034555,
+2010,Thailand,Asia,0.0056,0.0486,
+2010,Tunisia,Africa,0.05369,,
+2010,Turkey,Europe,1.32,0.0057,94.0
+2010,Ukraine,Europe,0.088,0.0025,
+2010,United Kingdom,Europe,5.421232,0.095,
+2010,United States,North America,39.135,2.9090000000000003,2405.0
+2010,Uruguay,South America,0.0406,,
+2010,Vietnam,Asia,,0.004518,
+2010,World,World,180.85153,40.33781,9998.0
+2011,Africa,Africa,0.995002,0.2663879999999999,205.3
+2011,Algeria,Africa,,0.0,
+2011,Argentina,South America,0.059579,0.001252,
+2011,Asia,Asia,67.92041,9.88405,
+2011,Australia,Oceania,2.127,2.47,
+2011,Austria,Europe,1.105966,0.17407,
+2011,Belgium,Europe,1.069,1.9786,
+2011,Brazil,South America,1.426,0.006097,
+2011,Bulgaria,Europe,0.541,0.154,
+2011,Canada,North America,5.265,0.628,
+2011,Chile,South America,0.184,0.0,0.0
+2011,China,Asia,46.3546,3.1078,26.2
+2011,Costa Rica,North America,0.1283,,217.5
+2011,Croatia,Europe,,,0.0
+2011,Czechia,Europe,,1.913,
+2011,Denmark,Europe,3.951981,0.017,
+2011,Egypt,Africa,0.555,0.015,
+2011,El Salvador,North America,,,204.0
+2011,Ethiopia,Africa,,,7.3
+2011,Europe,Europe,94.72223,53.564973,1555.2
+2011,Finland,Europe,0.199,,
+2011,France,Europe,6.758016,3.003574,16.3
+2011,Germany,Europe,28.712,25.914,6.0
+2011,Greece,Europe,1.64,0.612,
+2011,Guatemala,North America,,,54.2
+2011,Honduras,North America,,0.004479,0.0
+2011,Hungary,Europe,,0.004,
+2011,Iceland,Europe,,,665.0
+2011,India,Asia,16.179000000000002,0.5633150000000001,
+2011,Indonesia,Asia,,,1226.0
+2011,Iran,Asia,0.0982099999999999,,
+2011,Ireland,Europe,1.5846,,
+2011,Israel,Asia,,0.1896999999999999,
+2011,Italy,Europe,6.918,13.131,728.0
+2011,Japan,Asia,2.419,4.914,537.0
+2011,Jordan,Asia,0.0014,4.29999999999e-05,
+2011,Kenya,Africa,,,198.0
+2011,Malaysia,Asia,,0.000544,
+2011,Mexico,North America,0.601,0.0424,887.0
+2011,Morocco,Africa,0.255,0.0141739999999999,
+2011,Netherlands,Europe,2.316,0.149,
+2011,New Zealand,Oceania,0.623,,726.0
+2011,Nicaragua,North America,,,87.5
+2011,North America,North America,51.670300000000005,5.846879,3296.0
+2011,Norway,Europe,0.512,,
+2011,Oceania,Oceania,2.75,2.47,
+2011,Other South & Central America,South America,,,15.0
+2011,Pakistan,Asia,0.006,0.018632,
+2011,Papua New Guinea,Oceania,,,56.0
+2011,Philippines,Asia,0.033,0.00202,1846.5
+2011,Poland,Europe,1.8,0.00111,
+2011,Portugal,Europe,4.256215,0.172,25.0
+2011,Romania,Europe,0.988,0.001,
+2011,Russia,Europe,0.01,2.3e-05,81.0
+2011,Slovakia,Europe,,0.496,
+2011,South & Central America,South America,,,578.2
+2011,South Africa,Africa,0.01016,0.005658,
+2011,South America,South America,1.713184,0.007349,
+2011,South Korea,Asia,0.425,0.73,
+2011,Spain,Europe,21.529,4.283,
+2011,Sweden,Europe,2.764,0.012,
+2011,Switzerland,Europe,,0.223,
+2011,Taiwan,Asia,0.5226900000000001,0.129912,
+2011,Thailand,Asia,0.0073,0.0787,
+2011,Tunisia,Africa,0.05369,,
+2011,Turkey,Europe,1.729,0.0067,114.0
+2011,Ukraine,Europe,0.146,0.1882,
+2011,United Kingdom,Europe,6.596285,1.0,
+2011,United States,North America,45.676,5.172,2409.0
+2011,Uruguay,South America,0.043605,,
+2011,Vietnam,Asia,,0.004518,
+2011,World,World,220.1219,72.21597,10133.4
+2012,Africa,Africa,1.127604,0.345954,212.8
+2012,Algeria,Africa,,0.0,
+2012,Argentina,South America,0.136979,0.006252,
+2012,Asia,Asia,85.24638,16.54569,
+2012,Australia,Oceania,2.561,3.796,
+2012,Austria,Europe,1.33715,0.337483,
+2012,Belgium,Europe,1.37,2.6466,
+2012,Brazil,South America,1.894,0.006608,
+2012,Bulgaria,Europe,0.677,1.013,
+2012,Canada,North America,6.2010000000000005,0.766,
+2012,Chile,South America,0.202,0.002,0.0
+2012,China,Asia,61.59687,6.7178,26.2
+2012,Costa Rica,North America,0.1436,,217.5
+2012,Croatia,Europe,,,0.0
+2012,Czechia,Europe,,2.022,
+2012,Denmark,Europe,4.161941,0.402,
+2012,Egypt,Africa,0.555,0.015,
+2012,El Salvador,North America,,,204.4
+2012,Ethiopia,Africa,,,7.3
+2012,Europe,Europe,107.20097,71.716375,1612.2
+2012,Finland,Europe,0.257,,
+2012,France,Europe,7.607496,4.358754,15.3
+2012,Germany,Europe,30.979,34.075,16.0
+2012,Greece,Europe,1.753,1.536,
+2012,Guatemala,North America,,,54.2
+2012,Honduras,North America,,0.005156,0.0
+2012,Hungary,Europe,,0.012,
+2012,Iceland,Europe,,,665.0
+2012,India,Asia,17.2997,0.978582,
+2012,Indonesia,Asia,,,1336.0
+2012,Iran,Asia,0.10613,,
+2012,Ireland,Europe,1.70435,,
+2012,Israel,Asia,,0.272,
+2012,Italy,Europe,8.102,16.785,728.0
+2012,Japan,Asia,2.562,6.632000000000001,512.0
+2012,Jordan,Asia,0.0014,7.3e-05,
+2012,Kenya,Africa,,,205.5
+2012,Malaysia,Asia,,0.031584,
+2012,Mexico,North America,1.815,0.0728,824.0
+2012,Morocco,Africa,0.255,0.015174,
+2012,Netherlands,Europe,2.433,0.287,
+2012,New Zealand,Oceania,0.623,,726.0
+2012,Nicaragua,North America,,,164.5
+2012,North America,North America,67.2346,8.980956,3416.0
+2012,Norway,Europe,0.705,,
+2012,Oceania,Oceania,3.184,3.796,
+2012,Other South & Central America,South America,,,15.0
+2012,Pakistan,Asia,0.056155,0.045783,
+2012,Papua New Guinea,Oceania,,,56.0
+2012,Philippines,Asia,0.033,0.00202,1846.5
+2012,Poland,Europe,2.564,0.0013,
+2012,Portugal,Europe,4.411552,0.238,25.0
+2012,Romania,Europe,1.822,0.041,
+2012,Russia,Europe,0.01,9.3e-05,81.0
+2012,Slovakia,Europe,,0.513,
+2012,South & Central America,South America,,,655.5999999999999
+2012,South Africa,Africa,0.01016,0.011303,
+2012,South America,South America,2.285584,0.01486,
+2012,South Korea,Asia,0.464,1.024,
+2012,Spain,Europe,22.789,4.569,
+2012,Sweden,Europe,3.606,0.024,
+2012,Switzerland,Europe,,0.437,
+2012,Taiwan,Asia,0.57099,0.231281,
+2012,Thailand,Asia,0.1117,0.3767,
+2012,Tunisia,Africa,0.173,,
+2012,Turkey,Europe,2.261,0.0117,162.0
+2012,Ukraine,Europe,0.248,0.3716,
+2012,United Kingdom,Europe,9.03042,1.753,
+2012,United States,North America,59.075,8.137,2592.0
+2012,Uruguay,South America,0.052605,,
+2012,Vietnam,Asia,,0.004518,
+2012,World,World,266.91825,101.74533,10480.3
+2013,Africa,Africa,1.741834,0.6669729999999999,212.8
+2013,Algeria,Africa,,0.0,
+2013,Argentina,South America,0.189979,0.008257,
+2013,Asia,Asia,102.48747,36.577152000000005,
+2013,Australia,Oceania,3.221,4.565,
+2013,Austria,Europe,1.674538,0.625974,
+2013,Belgium,Europe,1.78,2.9016,
+2013,Brazil,South America,2.20202,0.012528,
+2013,Bulgaria,Europe,0.683,1.02,
+2013,Canada,North America,7.801,1.21,
+2013,Chile,South America,0.301,0.015,0.0
+2013,China,Asia,76.73053,17.747799999999998,26.0
+2013,Costa Rica,North America,0.1436,,217.5
+2013,Croatia,Europe,,,0.0
+2013,Czechia,Europe,,2.0635,
+2013,Denmark,Europe,4.818923,0.5710000000000001,
+2013,Egypt,Africa,0.555,0.015,
+2013,El Salvador,North America,,,204.4
+2013,Ethiopia,Africa,,,7.3
+2013,Europe,Europe,118.1839,81.8605,1773.2
+2013,Finland,Europe,0.447,,
+2013,France,Europe,8.155961,5.277289,16.3
+2013,Germany,Europe,33.477000000000004,36.708,26.0
+2013,Greece,Europe,1.809,2.579,
+2013,Guatemala,North America,,,49.2
+2013,Honduras,North America,,0.005156,0.0
+2013,Hungary,Europe,,0.035,
+2013,Iceland,Europe,,,665.0
+2013,India,Asia,18.4204,1.445827,
+2013,Indonesia,Asia,,,1343.5
+2013,Iran,Asia,0.10763,,
+2013,Ireland,Europe,1.9233,,
+2013,Israel,Asia,,0.3768,
+2013,Italy,Europe,8.542,18.185,729.0
+2013,Japan,Asia,2.646,13.599,512.0
+2013,Jordan,Asia,0.0014,0.0001409999999999,
+2013,Kenya,Africa,,,205.5
+2013,Malaysia,Asia,,0.138674,
+2013,Mexico,North America,2.122,0.109,823.0
+2013,Morocco,Africa,0.495,0.015174,
+2013,Netherlands,Europe,2.713,0.65,
+2013,New Zealand,Oceania,0.623,,798.0
+2013,Nicaragua,North America,,,154.5
+2013,North America,North America,70.03960000000001,13.083156,3430.0
+2013,Norway,Europe,0.8180000000000001,,
+2013,Oceania,Oceania,3.844,4.565,
+2013,Other South & Central America,South America,,,15.0
+2013,Pakistan,Asia,0.106055,0.100658,
+2013,Papua New Guinea,Oceania,,,56.0
+2013,Philippines,Asia,0.033,0.003047,1846.5
+2013,Poland,Europe,3.4290000000000003,0.0023929999999999,
+2013,Portugal,Europe,4.609948999999999,0.296,25.0
+2013,Romania,Europe,2.773,0.761,
+2013,Russia,Europe,0.01,0.001259,79.0
+2013,Slovakia,Europe,,0.533,
+2013,South & Central America,South America,,,640.5999999999999
+2013,South Africa,Africa,0.257,0.261625,
+2013,South America,South America,2.752416,0.035785,
+2013,South Korea,Asia,0.5760000000000001,1.555,
+2013,Spain,Europe,22.958,4.69,
+2013,Sweden,Europe,4.194,0.043,
+2013,Switzerland,Europe,,0.756,
+2013,Taiwan,Asia,0.61419,0.4099379999999999,
+2013,Thailand,Asia,0.2226999999999999,0.8235,
+2013,Tunisia,Africa,0.2,,
+2013,Turkey,Europe,2.76,0.0177,311.0
+2013,Ukraine,Europe,0.362,0.7484,
+2013,United Kingdom,Europe,11.282272,2.9370000000000003,
+2013,United States,North America,59.973,11.759,2607.0
+2013,Uruguay,South America,0.059417,,
+2013,Vietnam,Asia,,0.004518,
+2013,World,World,299.83962,137.22697,10717.6
+2014,Africa,Africa,2.399398,1.57312,373.4
+2014,Algeria,Africa,,0.0011,
+2014,Argentina,South America,0.215187,0.008252,
+2014,Asia,Asia,128.19758000000002,61.170582,
+2014,Australia,Oceania,3.797,5.284,
+2014,Austria,Europe,2.110275,0.785246,
+2014,Belgium,Europe,1.944,3.015,
+2014,Brazil,South America,4.888053,0.020697,
+2014,Bulgaria,Europe,0.6990000000000001,1.026,
+2014,Canada,North America,9.694,1.843,
+2014,Chile,South America,0.736,0.221,0.0
+2014,China,Asia,96.81913,28.3878,25.95
+2014,Costa Rica,North America,0.1931,,217.5
+2014,Croatia,Europe,,,0.0
+2014,Czechia,Europe,,2.0674,
+2014,Denmark,Europe,4.8864030000000005,0.607,
+2014,Egypt,Africa,0.555,0.015,
+2014,El Salvador,North America,,,204.4
+2014,Ethiopia,Africa,,,7.3
+2014,Europe,Europe,130.21045,88.78095,1909.265
+2014,Finland,Europe,0.627,,
+2014,France,Europe,9.201425,6.034418,16.3
+2014,Germany,Europe,38.614,37.898,29.0
+2014,Greece,Europe,1.978,2.596,
+2014,Guatemala,North America,,,49.2
+2014,Honduras,North America,,0.005156,0.0
+2014,Hungary,Europe,,0.089,
+2014,Iceland,Europe,,,665.0
+2014,India,Asia,22.4653,3.444008,
+2014,Indonesia,Asia,,,1403.5
+2014,Iran,Asia,0.14878,,
+2014,Ireland,Europe,2.28325,,
+2014,Israel,Asia,,0.5871000000000001,
+2014,Italy,Europe,8.683,18.594,768.0
+2014,Japan,Asia,2.753,23.339,508.0
+2014,Jordan,Asia,0.0014,0.000236,
+2014,Kenya,Africa,,,366.1
+2014,Malaysia,Asia,,0.205388,
+2014,Mexico,North America,2.569,0.174,813.0
+2014,Morocco,Africa,0.797,0.0196,
+2014,Netherlands,Europe,2.865,1.007,
+2014,New Zealand,Oceania,0.682,,924.0
+2014,Nicaragua,North America,,,154.5
+2014,North America,North America,76.68812,18.006156,3327.0
+2014,Norway,Europe,0.859,,
+2014,Oceania,Oceania,4.479,5.284,
+2014,Other South & Central America,South America,,,15.0
+2014,Pakistan,Asia,0.205555,0.165363,
+2014,Papua New Guinea,Oceania,,,56.0
+2014,Philippines,Asia,0.3369,0.0277369999999999,1916.1
+2014,Poland,Europe,3.836,0.02715,
+2014,Portugal,Europe,4.856555999999999,0.415,25.0
+2014,Romania,Europe,3.244,1.293,
+2014,Russia,Europe,0.01,0.005,78.0
+2014,Slovakia,Europe,,0.533,
+2014,South & Central America,South America,,,640.5999999999999
+2014,South Africa,Africa,0.5690000000000001,1.062901,
+2014,South America,South America,6.3205083,0.249949,
+2014,South Korea,Asia,0.612,2.481,
+2014,Spain,Europe,22.925,4.697,
+2014,Sweden,Europe,5.088,0.06,
+2014,Switzerland,Europe,,1.061,
+2014,Taiwan,Asia,0.63719,0.635951,
+2014,Thailand,Asia,0.2245,1.2985,
+2014,Tunisia,Africa,0.233,,
+2014,Turkey,Europe,3.63,0.04,405.0
+2014,Ukraine,Europe,0.5139,0.8191,
+2014,United Kingdom,Europe,13.073953,5.5280000000000005,
+2014,United States,North America,64.23201999999999,15.984,2514.0
+2014,Uruguay,South America,0.481268,,
+2014,Vietnam,Asia,,0.00529,
+2014,World,World,349.30678000000006,175.61717000000002,11161.815
+2015,Africa,Africa,3.320268,1.930761,611.3
+2015,Algeria,Africa,,0.0491,
+2015,Argentina,South America,0.187104,0.008618,
+2015,Asia,Asia,166.67778,91.58862,
+2015,Australia,Oceania,4.181,5.9430000000000005,
+2015,Austria,Europe,2.488726,0.937098,
+2015,Belgium,Europe,2.176,3.1316,
+2015,Brazil,South America,7.633115,0.045567,
+2015,Bulgaria,Europe,0.6990000000000001,1.029,
+2015,Canada,North America,11.214,2.519,
+2015,Chile,South America,0.91,0.5760000000000001,0.0
+2015,China,Asia,131.04773,43.5378,25.75
+2015,Costa Rica,North America,0.2721,,217.36
+2015,Croatia,Europe,,,0.0
+2015,Czechia,Europe,,2.0749,
+2015,Denmark,Europe,5.0769660000000005,0.7821079999999999,
+2015,Egypt,Africa,0.755,0.016,
+2015,El Salvador,North America,,,204.4
+2015,Ethiopia,Africa,,,7.3
+2015,Europe,Europe,142.99906,97.3483,2128.2650000000003
+2015,Finland,Europe,1.005,,
+2015,France,Europe,10.29818,7.137517,16.3
+2015,Germany,Europe,44.58,39.222,29.0
+2015,Greece,Europe,2.091,2.604,
+2015,Guatemala,North America,,,49.2
+2015,Honduras,North America,,0.393156,0.0
+2015,Hungary,Europe,,0.172,
+2015,Iceland,Europe,,,665.0
+2015,India,Asia,25.08819,5.364984000000001,
+2015,Indonesia,Asia,,,1438.0
+2015,Iran,Asia,0.15344,,
+2015,Ireland,Europe,2.45115,,
+2015,Israel,Asia,,0.7657,
+2015,Italy,Europe,9.137,18.901,768.0
+2015,Japan,Asia,2.8080000000000003,34.15,516.0
+2015,Jordan,Asia,0.1184,0.005557,
+2015,Kenya,Africa,,,604.0
+2015,Malaysia,Asia,,0.266285,
+2015,Mexico,North America,3.271,0.287,906.0
+2015,Morocco,Africa,0.797,0.0198,
+2015,Netherlands,Europe,3.391,1.526,
+2015,New Zealand,Oceania,0.6890000000000001,,941.0
+2015,Nicaragua,North America,,,154.5
+2015,North America,North America,87.330125,24.883156,3448.0
+2015,Norway,Europe,0.867,,
+2015,Oceania,Oceania,4.87,5.9430000000000005,
+2015,Other South & Central America,South America,,,15.0
+2015,Pakistan,Asia,0.308355,0.265512,
+2015,Papua New Guinea,Oceania,,,56.0
+2015,Philippines,Asia,0.4269,0.17255,1916.1
+2015,Poland,Europe,4.886,0.107777,
+2015,Portugal,Europe,4.936838,0.447,25.0
+2015,Romania,Europe,3.13,1.326,
+2015,Russia,Europe,0.0109,0.06132,78.0
+2015,Slovakia,Europe,,0.533,
+2015,South & Central America,South America,,,640.46
+2015,South Africa,Africa,1.079,1.251656,
+2015,South America,South America,9.586976,0.630185,
+2015,South Korea,Asia,0.847,3.615,
+2015,Spain,Europe,22.943,4.704,
+2015,Sweden,Europe,5.819,0.104,
+2015,Switzerland,Europe,,1.394,
+2015,Taiwan,Asia,0.6466900000000001,0.884251,
+2015,Thailand,Asia,0.2339,1.4196,
+2015,Tunisia,Africa,0.24,,
+2015,Turkey,Europe,4.503,0.249,624.0
+2015,Ukraine,Europe,0.5139,0.8412000000000001,
+2015,United Kingdom,Europe,14.305634,9.601219,
+2015,United States,North America,72.57302,21.684,2542.0
+2015,Uruguay,South America,0.856756,,
+2015,Vietnam,Asia,,0.00529,
+2015,World,World,416.17006,223.2036,11798.875
+2016,Africa,Africa,3.826414,2.988417,645.3
+2016,Algeria,Africa,,0.2191,
+2016,Argentina,South America,0.187442,0.008806,
+2016,Asia,Asia,190.49298,142.65352,
+2016,Australia,Oceania,4.324,6.686,
+2016,Austria,Europe,2.7299960000000003,1.096016,
+2016,Belgium,Europe,2.37,3.3288,
+2016,Brazil,South America,10.129155,0.127789,
+2016,Bulgaria,Europe,0.6990000000000001,1.028,
+2016,Canada,North America,11.973,2.665,
+2016,Chile,South America,1.039,1.125,0.0
+2016,China,Asia,148.51689000000002,77.7878,25.75
+2016,Costa Rica,North America,0.3651,,206.86
+2016,Croatia,Europe,,,0.0
+2016,Czechia,Europe,,2.0679000000000003,
+2016,Denmark,Europe,5.245142,0.850953,
+2016,Egypt,Africa,0.755,0.039,
+2016,El Salvador,North America,,,204.4
+2016,Ethiopia,Africa,,,7.3
+2016,Europe,Europe,155.73210999999998,103.88894,2327.484
+2016,Finland,Europe,1.565,,
+2016,France,Europe,11.566564,7.702081000000001,15.51
+2016,Germany,Europe,49.435,40.677,33.0
+2016,Greece,Europe,2.37,2.604,
+2016,Guatemala,North America,,,49.2
+2016,Honduras,North America,,0.414156,0.0
+2016,Hungary,Europe,,0.235,
+2016,Iceland,Europe,,,665.0
+2016,India,Asia,28.70044,9.650521,
+2016,Indonesia,Asia,,,1533.0
+2016,Iran,Asia,0.19094,,
+2016,Ireland,Europe,2.80165,,
+2016,Israel,Asia,,0.8736,
+2016,Italy,Europe,9.384,19.283,767.0
+2016,Japan,Asia,3.247,42.04,526.0
+2016,Jordan,Asia,0.1984,0.286593,
+2016,Kenya,Africa,,,638.0
+2016,Malaysia,Asia,,0.344108,
+2016,Mexico,North America,4.051,0.6326,926.0
+2016,Morocco,Africa,0.897,0.02187,
+2016,Netherlands,Europe,4.257,2.135,
+2016,New Zealand,Oceania,0.6890000000000001,,941.0
+2016,Nicaragua,North America,,,154.5
+2016,North America,North America,97.6751,36.669758,3443.0
+2016,Norway,Europe,0.883,,
+2016,Oceania,Oceania,5.013,6.686,
+2016,Other South & Central America,South America,,,15.0
+2016,Pakistan,Asia,0.5906549999999999,0.5895050000000001,
+2016,Papua New Guinea,Oceania,,,56.0
+2016,Philippines,Asia,0.4269,0.784145,1916.1
+2016,Poland,Europe,5.747,0.187247,
+2016,Portugal,Europe,5.124103,0.512824,25.0
+2016,Romania,Europe,3.025,1.372,
+2016,Russia,Europe,0.0109,0.07632,78.0
+2016,Slovakia,Europe,,0.533,
+2016,South & Central America,South America,,,629.96
+2016,South Africa,Africa,1.473,1.974026,
+2016,South America,South America,12.567054,1.261595,
+2016,South Korea,Asia,1.067,4.502,
+2016,Spain,Europe,22.99,4.713,
+2016,Sweden,Europe,6.4350000000000005,0.153,
+2016,Switzerland,Europe,,1.664,
+2016,Taiwan,Asia,0.6820900000000001,1.245055,
+2016,Thailand,Asia,0.50704,2.4461,
+2016,Tunisia,Africa,0.24,,
+2016,Turkey,Europe,5.751,0.833,821.0
+2016,Ukraine,Europe,0.526,0.9547,
+2016,United Kingdom,Europe,16.125935,11.914,
+2016,United States,North America,81.286,32.958,2517.0
+2016,Uruguay,South America,1.211456,,
+2016,Vietnam,Asia,,0.00529,
+2016,World,World,466.86603,295.2289,12121.594
+2017,Africa,Africa,4.5792627,4.711063,655.3
+2017,Algeria,Africa,,0.4,
+2017,Argentina,South America,0.226742,0.008806,
+2017,Asia,Asia,212.19056,217.31088,
+2017,Australia,Oceania,4.812,7.352,
+2017,Austria,Europe,2.886698,1.268971,
+2017,Belgium,Europe,2.7875,3.6206,
+2017,Brazil,South America,12.304272,1.206787,
+2017,Bulgaria,Europe,0.69839,1.03557,
+2017,Canada,North America,12.25,2.932,
+2017,Chile,South America,1.305,1.809,24.0
+2017,China,Asia,164.37448,130.80129,25.75
+2017,Costa Rica,North America,0.37782,,206.86
+2017,Croatia,Europe,,,0.0
+2017,Czechia,Europe,,2.0695,
+2017,Denmark,Europe,5.488949,0.90635,
+2017,Egypt,Africa,0.755,0.16,
+2017,El Salvador,North America,,,204.4
+2017,Ethiopia,Africa,,,7.3
+2017,Europe,Europe,170.57127,110.13502,2621.855
+2017,Finland,Europe,2.044,,
+2017,France,Europe,13.499357,8.610437,15.9
+2017,Germany,Europe,55.58,42.291,32.0
+2017,Greece,Europe,2.624,2.6055300000000003,
+2017,Guatemala,North America,,,49.2
+2017,Honduras,North America,,0.453786,35.0
+2017,Hungary,Europe,,0.344,
+2017,Iceland,Europe,,,710.0
+2017,India,Asia,32.84846,17.923256000000002,
+2017,Indonesia,Asia,,,1808.0
+2017,Iran,Asia,0.259,,
+2017,Ireland,Europe,3.31915,,
+2017,Israel,Asia,,0.9823,
+2017,Italy,Europe,9.736578,19.682293,767.19
+2017,Japan,Asia,3.483,49.5,481.0
+2017,Jordan,Asia,0.1984,0.396588,
+2017,Kenya,Africa,,,648.0
+2017,Malaysia,Asia,,0.393808,
+2017,Mexico,North America,4.199372,1.12574,925.7
+2017,Morocco,Africa,1.023,0.023895,
+2017,Netherlands,Europe,4.202,2.911,
+2017,New Zealand,Oceania,0.6890000000000001,,941.0
+2017,Nicaragua,North America,,,154.5
+2017,North America,North America,104.42419,45.868527,3408.7
+2017,Norway,Europe,1.207,,
+2017,Oceania,Oceania,5.501,7.352,
+2017,Other South & Central America,South America,,,15.0
+2017,Pakistan,Asia,0.7891549999999999,0.6546989999999999,
+2017,Papua New Guinea,Oceania,,,56.0
+2017,Philippines,Asia,0.4269,0.908376,1916.1
+2017,Poland,Europe,5.7593570000000005,0.287091,
+2017,Portugal,Europe,5.124104999999999,0.579236,29.1
+2017,Romania,Europe,3.029798,1.374129,
+2017,Russia,Europe,0.0109,0.22532,74.0
+2017,Slovakia,Europe,,0.528,
+2017,South & Central America,South America,,,688.96
+2017,South Africa,Africa,2.094,3.14673,
+2017,South America,South America,15.346671,3.024593,
+2017,South Korea,Asia,1.215,5.835,
+2017,Spain,Europe,23.124479,4.723,
+2017,Sweden,Europe,6.611,0.244,
+2017,Switzerland,Europe,,1.906,
+2017,Taiwan,Asia,0.69239,1.767702,
+2017,Thailand,Asia,0.62782,2.6972600000000004,
+2017,Tunisia,Africa,0.24,,
+2017,Turkey,Europe,6.51615,3.4207,1063.7
+2017,Ukraine,Europe,0.553,1.2,
+2017,United Kingdom,Europe,19.584998,12.76,
+2017,United States,North America,87.59700000000001,41.357,2483.0
+2017,Uruguay,South America,1.510656,,
+2017,Vietnam,Asia,,0.007992,
+2017,World,World,514.2148,390.20653,12680.665
+2018,Africa,Africa,5.4715527,7.210268,671.3
+2018,Algeria,Africa,,0.423,
+2018,Argentina,South America,0.750342,0.191236,
+2018,Asia,Asia,236.92172,284.53244,
+2018,Australia,Oceania,5.442,8.623,
+2018,Austria,Europe,3.1327130000000003,1.455132,
+2018,Belgium,Europe,3.2679,4.0,
+2018,Brazil,South America,14.843094,2.435022,
+2018,Bulgaria,Europe,0.69892,1.032679,
+2018,Canada,North America,12.816,3.095,
+2018,Chile,South America,1.524,2.137,48.0
+2018,China,Asia,184.66488,175.01586,25.75
+2018,Costa Rica,North America,0.4077699999999999,,206.86
+2018,Croatia,Europe,,,10.0
+2018,Czechia,Europe,,2.075072,
+2018,Denmark,Europe,6.115046,0.998,
+2018,Egypt,Africa,1.13,0.7442000000000001,
+2018,El Salvador,North America,,,204.4
+2018,Ethiopia,Africa,,,7.3
+2018,Europe,Europe,181.88416,119.68972,2899.655
+2018,Finland,Europe,2.041,,
+2018,France,Europe,14.900146,9.672296,15.9
+2018,Germany,Europe,58.721,45.156,35.0
+2018,Greece,Europe,2.877495,2.6515700000000004,
+2018,Guatemala,North America,,,49.2
+2018,Honduras,North America,,0.5136860000000001,35.0
+2018,Hungary,Europe,,0.728,
+2018,Iceland,Europe,,,756.0
+2018,India,Asia,35.2881,27.124598,
+2018,Indonesia,Asia,,,1948.0
+2018,Iran,Asia,0.282,,
+2018,Ireland,Europe,3.67385,,
+2018,Israel,Asia,,1.2852,
+2018,Italy,Europe,10.230246,20.10759,767.19
+2018,Japan,Asia,3.498,56.162,482.0
+2018,Jordan,Asia,0.2804,0.6996230000000001,
+2018,Kenya,Africa,,,664.0
+2018,Malaysia,Asia,,0.5450750000000001,
+2018,Mexico,North America,4.875635,2.541,950.6
+2018,Morocco,Africa,1.225,0.193895,
+2018,Netherlands,Europe,4.393,4.6080000000000005,
+2018,New Zealand,Oceania,0.6890000000000001,,952.0
+2018,Nicaragua,North America,,,154.5
+2018,North America,North America,112.61541,55.961688,3491.1
+2018,Norway,Europe,1.71,,
+2018,Oceania,Oceania,6.131,8.623,
+2018,Other South & Central America,South America,,,15.0
+2018,Pakistan,Asia,1.185855,0.6791090000000001,
+2018,Papua New Guinea,Oceania,,,56.0
+2018,Philippines,Asia,0.4269,0.916961,1928.1
+2018,Poland,Europe,5.766078,0.561976,
+2018,Portugal,Europe,5.172359,0.6674310000000001,29.1
+2018,Romania,Europe,3.032258,1.38582,
+2018,Russia,Europe,0.0519,0.53532,74.0
+2018,Slovakia,Europe,,0.472,
+2018,South & Central America,South America,,,712.96
+2018,South Africa,Africa,2.094,4.4009290000000005,
+2018,South America,South America,18.628092,4.763258,
+2018,South Korea,Asia,1.42,8.099,
+2018,Spain,Europe,23.405055,4.763607,
+2018,Sweden,Europe,7.3,0.428,
+2018,Switzerland,Europe,,2.173,
+2018,Taiwan,Asia,0.713151,2.738119,
+2018,Thailand,Asia,1.10282,2.96244,
+2018,Tunisia,Africa,0.245,,
+2018,Turkey,Europe,7.005386000000001,5.062608,1282.5
+2018,Ukraine,Europe,0.62077,2.002688,
+2018,United Kingdom,Europe,21.76722,13.073,
+2018,United States,North America,94.516,49.812,2540.5
+2018,Uruguay,South America,1.510656,,
+2018,Vietnam,Asia,,0.104992,
+2018,World,World,563.4657,483.0118,13244.865
+2019,Africa,Africa,5.528753,8.415319,831.3
+2019,Algeria,Africa,,0.423,
+2019,Argentina,South America,1.609359,0.442111,
+2019,Asia,Asia,266.26897,344.22016,
+2019,Australia,Oceania,6.279,12.967,
+2019,Austria,Europe,3.224117,1.702093,
+2019,Belgium,Europe,3.8634,4.6366000000000005,
+2019,Brazil,South America,15.438379,4.613191,
+2019,Bulgaria,Europe,0.70312,1.0479500000000002,
+2019,Canada,North America,13.413,3.327,
+2019,Chile,South America,1.620074,2.653698,39.7
+2019,China,Asia,209.5819,204.5748,26.0
+2019,Costa Rica,North America,0.41092,,261.86
+2019,Croatia,Europe,,,10.0
+2019,Czechia,Europe,,2.086424,
+2019,Denmark,Europe,6.102939999999999,1.08,
+2019,Egypt,Africa,1.132,1.6272,
+2019,El Salvador,North America,,,204.4
+2019,Ethiopia,Africa,,,7.3
+2019,Europe,Europe,196.35016,141.2378,3136.665
+2019,Finland,Europe,2.2840000000000003,,
+2019,France,Europe,16.456854,10.807874,15.9
+2019,Germany,Europe,60.742,48.912,40.0
+2019,Greece,Europe,3.589,2.833794,
+2019,Guatemala,North America,,,52.0
+2019,Honduras,North America,,0.514,35.0
+2019,Hungary,Europe,,1.4,
+2019,Iceland,Europe,,,756.0
+2019,India,Asia,37.50518,34.860906,
+2019,Indonesia,Asia,,,2130.5
+2019,Iran,Asia,0.30492,,
+2019,Ireland,Europe,4.12645,,
+2019,Israel,Asia,,1.8074,
+2019,Italy,Europe,10.67946,20.865275,767.0
+2019,Japan,Asia,3.951,63.192,525.0
+2019,Jordan,Asia,0.373,1.18567,
+2019,Kenya,Africa,,,824.0
+2019,Malaysia,Asia,,0.893595,
+2019,Mexico,North America,6.050260000000001,4.426208,935.6
+2019,Morocco,Africa,1.225,0.193903,
+2019,Netherlands,Europe,4.484158000000001,7.226,
+2019,New Zealand,Oceania,0.6890000000000001,,952.0
+2019,Nicaragua,North America,,,153.24
+2019,North America,North America,123.92638,67.33521,3490.9
+2019,Norway,Europe,2.914,,
+2019,Oceania,Oceania,6.968,12.967,
+2019,Other South & Central America,South America,,,15.0
+2019,Pakistan,Asia,1.235855,0.763313,
+2019,Papua New Guinea,Oceania,,,56.0
+2019,Philippines,Asia,0.4428999999999999,0.982246,1928.1
+2019,Poland,Europe,5.836823000000001,1.5392590000000002,
+2019,Portugal,Europe,5.222745,0.901438,29.1
+2019,Romania,Europe,3.037515,1.397705,
+2019,Russia,Europe,0.1019,1.27632,74.0
+2019,Slovakia,Europe,,0.59,
+2019,South & Central America,South America,,,761.2
+2019,South Africa,Africa,2.094,4.404991,
+2019,South America,South America,20.181668,7.709,
+2019,South Korea,Asia,1.494,11.952,
+2019,Spain,Europe,25.590076,8.839253000000001,
+2019,Sweden,Europe,8.681000000000001,0.714,
+2019,Switzerland,Europe,,2.498,
+2019,Taiwan,Asia,0.845159,4.149539,
+2019,Thailand,Asia,1.50682,2.98262,
+2019,Tunisia,Africa,0.245,,
+2019,Turkey,Europe,7.591156,5.995155,1514.7
+2019,Ukraine,Europe,1.25777,5.935688,
+2019,United Kingdom,Europe,24.09538,13.346,
+2019,United States,North America,104.0522,59.068,2555.3
+2019,Uruguay,South America,1.513856,,
+2019,Vietnam,Asia,,4.99349,
+2019,World,World,621.2700600000001,584.6857,13911.665
+2020,Africa,Africa,6.4846533,9.703859,831.0
+2020,Algeria,Africa,,0.423,
+2020,Argentina,South America,2.623904,0.764135,
+2020,Asia,Asia,342.29275,423.60356,
+2020,Australia,Oceania,8.603,17.342,
+2020,Austria,Europe,3.225985,2.042934,
+2020,Belgium,Europe,4.680899999999999,5.574800000000001,
+2020,Brazil,South America,17.198324,7.879157,
+2020,Bulgaria,Europe,0.7028,1.097357,
+2020,Canada,North America,13.62696,3.342,
+2020,Chile,South America,2.1489960000000004,3.205438,40.0
+2020,China,Asia,282.11266,253.4178,26.0
+2020,Costa Rica,North America,0.39352,,262.0
+2020,Croatia,Europe,,,10.0
+2020,Czechia,Europe,,2.122711,
+2020,Denmark,Europe,6.259455,1.304294,
+2020,Egypt,Africa,1.38,1.65539,
+2020,El Salvador,North America,,,204.0
+2020,Ethiopia,Africa,,,7.0
+2020,Europe,Europe,208.73247,161.78277,3265.0
+2020,Finland,Europe,2.586,,
+2020,France,Europe,17.484002,12.022225,16.0
+2020,Germany,Europe,62.188,53.719,40.0
+2020,Greece,Europe,4.11925,3.28772,
+2020,Guatemala,North America,,,49.0
+2020,Honduras,North America,,0.514,39.0
+2020,Hungary,Europe,,2.131,
+2020,Iceland,Europe,,,756.0
+2020,India,Asia,38.5586,39.042656,
+2020,Indonesia,Asia,,,2131.0
+2020,Iran,Asia,0.3080799999999999,,
+2020,Ireland,Europe,4.3067,,
+2020,Israel,Asia,,2.23,
+2020,Italy,Europe,10.870622,21.65004,797.0
+2020,Japan,Asia,4.371,69.764,525.0
+2020,Jordan,Asia,0.51801,1.448375,
+2020,Kenya,Africa,,,824.0
+2020,Malaysia,Asia,,1.482597,
+2020,Mexico,North America,6.504433,5.149,906.0
+2020,Morocco,Africa,1.405,0.194,
+2020,Netherlands,Europe,6.61875,10.94972,
+2020,New Zealand,Oceania,0.784,,984.0
+2020,Nicaragua,North America,,,153.0
+2020,North America,North America,139.25662,82.81869999999999,3493.0
+2020,Norway,Europe,4.03,,
+2020,Oceania,Oceania,9.387,17.342,
+2020,Other South & Central America,South America,,,15.0
+2020,Pakistan,Asia,1.235855,0.860313,
+2020,Papua New Guinea,Oceania,,,56.0
+2020,Philippines,Asia,0.4428999999999999,1.057881,1928.0
+2020,Poland,Europe,6.29825,3.954963,
+2020,Portugal,Europe,5.122259000000001,1.100292,29.0
+2020,Romania,Europe,3.012527,1.382539,
+2020,Russia,Europe,0.9453,1.42782,74.0
+2020,Slovakia,Europe,,0.535,
+2020,South & Central America,South America,,,762.0
+2020,South Africa,Africa,2.516,5.489578000000001,
+2020,South America,South America,23.485080000000004,11.84873,
+2020,South Korea,Asia,1.635802,14.574791,
+2020,Spain,Europe,26.81919,10.285477,
+2020,Sweden,Europe,9.976,1.107,
+2020,Switzerland,Europe,,2.97339,
+2020,Taiwan,Asia,0.937115,5.817205,
+2020,Thailand,Asia,1.50682,2.98262,
+2020,Tunisia,Africa,0.245,,
+2020,Turkey,Europe,8.832356,6.667355,1613.0
+2020,Ukraine,Europe,1.402,7.331,
+2020,United Kingdom,Europe,24.484990000000003,13.46248,
+2020,United States,North America,118.7317,73.8137,2587.0
+2020,Uruguay,South America,1.513856,,
+2020,Vietnam,Asia,,16.660490000000003,
+2020,World,World,731.7632,710.2811,14075.0
+2021,Africa,Africa,7.334153000000001,10.30226,
+2021,Algeria,Africa,,0.423,
+2021,Argentina,South America,3.292124,1.071366,
+2021,Asia,Asia,397.26875,501.57628000000005,
+2021,Australia,Oceania,8.9506,19.074,
+2021,Austria,Europe,3.523985,2.6919340000000003,
+2021,Belgium,Europe,4.7796400000000006,6.584600000000001,
+2021,Brazil,South America,21.16127,13.054926,
+2021,Bulgaria,Europe,0.7048,1.186357,
+2021,Canada,North America,14.30356,3.6296,
+2021,Chile,South America,3.137006,4.360007,
+2021,China,Asia,328.97344,306.4028,
+2021,Costa Rica,North America,0.39352,,
+2021,Czechia,Europe,,2.119211,
+2021,Denmark,Europe,7.013565,1.540294,
+2021,Egypt,Africa,1.64,1.65539,
+2021,Europe,Europe,223.9155,184.94838,
+2021,Finland,Europe,3.257,,
+2021,France,Europe,18.676002,14.709225,
+2021,Germany,Europe,63.76,58.459,
+2021,Greece,Europe,4.45725,3.53,
+2021,Honduras,North America,,0.514,
+2021,Hungary,Europe,,2.131,
+2021,India,Asia,40.067266,49.341508000000005,
+2021,Iran,Asia,0.3102,,
+2021,Ireland,Europe,4.332050000000001,,
+2021,Israel,Asia,,2.313,
+2021,Italy,Europe,11.275622,22.69204,
+2021,Japan,Asia,4.471,74.191,
+2021,Jordan,Asia,0.62151,1.520575,
+2021,Malaysia,Asia,,1.786747,
+2021,Mexico,North America,7.69153,7.026,
+2021,Morocco,Africa,1.435,0.2343,
+2021,Netherlands,Europe,7.801,14.249,
+2021,New Zealand,Oceania,0.917,,
+2021,North America,North America,155.1262,104.88262,
+2021,Norway,Europe,4.65,,
+2021,Oceania,Oceania,9.8676,19.074,
+2021,Pakistan,Asia,1.335155,1.0833130000000002,
+2021,Philippines,Asia,0.4428999999999999,1.369734,
+2021,Poland,Europe,6.9582500000000005,6.256754,
+2021,Portugal,Europe,5.248259,1.801292,
+2021,Romania,Europe,3.012527,1.397539,
+2021,Russia,Europe,1.955,1.66102,
+2021,Slovakia,Europe,,0.535,
+2021,South Africa,Africa,2.9555,5.721095,
+2021,South America,South America,29.104256000000003,18.486299,
+2021,South Korea,Asia,1.708043,18.160574,
+2021,Spain,Europe,27.49719,13.648477000000002,
+2021,Sweden,Europe,12.08,1.5774,
+2021,Switzerland,Europe,,3.44878,
+2021,Taiwan,Asia,1.033368,7.700213,
+2021,Thailand,Asia,1.50682,3.04362,
+2021,Tunisia,Africa,0.245,,
+2021,Turkey,Europe,10.606956,7.815555000000001,
+2021,Ukraine,Europe,1.761,8.062,
+2021,United Kingdom,Europe,27.129990000000003,13.689,
+2021,United States,North America,132.7376,93.713016,
+2021,Uruguay,South America,1.513856,,
+2021,Vietnam,Asia,,16.660490000000003,
+2021,World,World,824.8740600000001,843.0860600000001,
